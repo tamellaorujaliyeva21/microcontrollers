@@ -1,0 +1,84 @@
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+f=1663.201 Hz  T=50505 ticks  high=300583 ns  duty=49.9 %
+f=1663.465 Hz  T=50497 ticks  high=300559 ns  duty=49.9 %
+f=1481.873 Hz  T=56685 ticks  high=337357 ns  duty=49.9 %
+f=19.512 Hz    T=4304973 ticks  high=337285 ns  duty=0.6 %
+f=1320.464 Hz  T=63614 ticks  high=378642 ns  duty=49.9 %
+f=989.026 Hz   T=84932 ticks  high=101071 ns  duty=9.9 %
+f=988.107 Hz   T=85011 ticks  high=101190 ns  duty=9.9 %
+f=988.293 Hz   T=84995 ticks  high=202273 ns  duty=19.9 %
+f=988.444 Hz   T=84982 ticks  high=202357 ns  duty=20.0 %
+f=988.956 Hz   T=84938 ticks  high=303369 ns  duty=30.0 %
+f=988.084 Hz   T=85013 ticks  high=303571 ns  duty=29.9 %
+f=988.014 Hz   T=85019 ticks  high=404857 ns  duty=40.0 %
+f=989.259 Hz   T=84912 ticks  high=404380 ns  duty=40.0 %
+f=988.270 Hz   T=84997 ticks  high=505773 ns  duty=49.9 %
+f=989.096 Hz   T=84926 ticks  high=505500 ns  duty=49.9 %
+f=988.793 Hz   T=84952 ticks  high=606916 ns  duty=60.0 %
+f=988.677 Hz   T=84962 ticks  high=606869 ns  duty=59.9 %
+f=989.166 Hz   T=84920 ticks  high=707595 ns  duty=69.9 %
+f=988.514 Hz   T=84976 ticks  high=708142 ns  duty=70.0 %
+f=988.642 Hz   T=84965 ticks  high=809238 ns  duty=80.0 %
+f=988.258 Hz   T=84998 ticks  high=809476 ns  duty=79.9 %
+f=988.107 Hz   T=85011 ticks  high=910809 ns  duty=89.9 %
+f=987.561 Hz   T=85058 ticks  high=911357 ns  duty=90.0 %
+f=987.921 Hz   T=85027 ticks  high=910976 ns  duty=89.9 %
+no signal
+no signal
+no signal
+no signal
+
+
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+no signal
+f=1660.243 Hz  T=50595 ticks  high=301178 ns  duty=50.0 %
+f=1660.965 Hz  T=50573 ticks  high=300988 ns  duty=49.9 %
+f=1479.732 Hz  T=56767 ticks  high=337964 ns  duty=50.0 %
+f=1479.159 Hz  T=56789 ticks  high=338071 ns  duty=50.0 %
+f=1316.366 Hz  T=63812 ticks  high=379880 ns  duty=50.0 %
+f=1317.709 Hz  T=63747 ticks  high=379404 ns  duty=49.9 %
+f=986.587 Hz   T=85142 ticks  high=101345 ns  duty=9.9 %
+f=986.958 Hz   T=85110 ticks  high=101309 ns  duty=9.9 %
+f=988.026 Hz   T=85018 ticks  high=202404 ns  duty=19.9 %
+f=986.911 Hz   T=85114 ticks  high=202642 ns  duty=19.9 %
+f=987.573 Hz   T=85057 ticks  high=303797 ns  duty=30.0 %
+f=987.712 Hz   T=85045 ticks  high=303714 ns  duty=29.9 %
+f=987.770 Hz   T=85040 ticks  high=404988 ns  duty=40.0 %
+f=987.886 Hz   T=85030 ticks  high=404857 ns  duty=39.9 %
+f=988.165 Hz   T=85006 ticks  high=505916 ns  duty=49.9 %
+f=987.387 Hz   T=85073 ticks  high=506309 ns  duty=49.9 %
+f=987.816 Hz   T=85036 ticks  high=607476 ns  duty=60.0 %
+f=987.712 Hz   T=85045 ticks  high=607440 ns  duty=59.9 %
+f=987.132 Hz   T=85095 ticks  high=709023 ns  duty=69.9 %
+f=987.074 Hz   T=85100 ticks  high=709202 ns  duty=70.0 %
+f=988.258 Hz   T=84998 ticks  high=809428 ns  duty=79.9 %
+f=987.108 Hz   T=85097 ticks  high=810476 ns  duty=80.0 %
+f=987.271 Hz   T=85083 ticks  high=911619 ns  duty=90.0 %
+f=987.491 Hz   T=85064 ticks  high=911380 ns  duty=89.9 %
+f=987.526 Hz   T=85061 ticks  high=911309 ns  duty=89.9 %
+no signal
+no signal
+no signal
