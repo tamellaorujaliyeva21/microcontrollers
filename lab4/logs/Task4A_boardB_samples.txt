@@ -1,0 +1,2020 @@
+
+BOARD B ready
+CRC self test: PASS
+  1.001 s  seq=  0  SET 1000 us  ACK ok  rtt 1.36 ms
+  1.101 s  seq=  1  SET 1010 us  ACK ok  rtt 1.35 ms
+  1.201 s  seq=  2  SET 1020 us  ACK ok  rtt 1.35 ms
+  1.301 s  seq=  3  SET 1030 us  ACK ok  rtt 1.36 ms
+  1.401 s  seq=  4  SET 1040 us  ACK ok  rtt 1.35 ms
+  1.501 s  seq=  5  SET 1050 us  ACK ok  rtt 1.35 ms
+  1.601 s  seq=  6  SET 1060 us  ACK ok  rtt 1.35 ms
+  1.701 s  seq=  7  SET 1070 us  ACK ok  rtt 1.35 ms
+  1.801 s  seq=  8  SET 1080 us  ACK ok  rtt 1.36 ms
+  1.901 s  seq=  9  SET 1090 us  ACK ok  rtt 1.36 ms
+  2.001 s  seq= 10  SET 1100 us  ACK ok  rtt 1.35 ms
+  2.101 s  seq= 11  SET 1110 us  ACK ok  rtt 1.36 ms
+  2.201 s  seq= 12  SET 1120 us  ACK ok  rtt 1.35 ms
+  2.301 s  seq= 13  SET 1130 us  ACK ok  rtt 1.35 ms
+  2.401 s  seq= 14  SET 1140 us  ACK ok  rtt 1.36 ms
+  2.501 s  seq= 15  SET 1150 us  ACK ok  rtt 1.35 ms
+  2.601 s  seq= 16  SET 1160 us  ACK ok  rtt 1.36 ms
+  2.701 s  seq= 17  SET 1170 us  ACK ok  rtt 1.35 ms
+  2.801 s  seq= 18  SET 1180 us  ACK ok  rtt 1.35 ms
+  2.901 s  seq= 19  SET 1190 us  ACK ok  rtt 1.35 ms
+  3.001 s  seq= 20  SET 1200 us  ACK ok  rtt 1.35 ms
+  3.101 s  seq= 21  SET 1210 us  ACK ok  rtt 1.36 ms
+  3.201 s  seq= 22  SET 1220 us  ACK ok  rtt 1.36 ms
+  3.301 s  seq= 23  SET 1230 us  ACK ok  rtt 1.35 ms
+  3.401 s  seq= 24  SET 1240 us  ACK ok  rtt 1.35 ms
+  3.501 s  seq= 25  SET 1250 us  ACK ok  rtt 1.36 ms
+  3.601 s  seq= 26  SET 1260 us  ACK ok  rtt 1.35 ms
+  3.701 s  seq= 27  SET 1270 us  ACK ok  rtt 1.36 ms
+  3.801 s  seq= 28  SET 1280 us  ACK ok  rtt 1.35 ms
+  3.901 s  seq= 29  SET 1290 us  ACK ok  rtt 1.35 ms
+  4.001 s  seq= 30  SET 1300 us  ACK ok  rtt 1.35 ms
+  4.101 s  seq= 31  SET 1310 us  ACK ok  rtt 1.36 ms
+  4.201 s  seq= 32  SET 1320 us  ACK ok  rtt 1.35 ms
+  4.301 s  seq= 33  SET 1330 us  ACK ok  rtt 1.36 ms
+  4.401 s  seq= 34  SET 1340 us  ACK ok  rtt 1.35 ms
+  4.501 s  seq= 35  SET 1350 us  ACK ok  rtt 1.36 ms
+  4.601 s  seq= 36  SET 1360 us  ACK ok  rtt 1.35 ms
+  4.701 s  seq= 37  SET 1370 us  ACK ok  rtt 1.35 ms
+  4.801 s  seq= 38  SET 1380 us  ACK ok  rtt 1.35 ms
+  4.901 s  seq= 39  SET 1390 us  ACK ok  rtt 1.36 ms
+  5.001 s  seq= 40  SET 1400 us  ACK ok  rtt 1.35 ms
+  5.101 s  seq= 41  SET 1410 us  ACK ok  rtt 1.35 ms
+  5.201 s  seq= 42  SET 1420 us  ACK ok  rtt 1.35 ms
+  5.301 s  seq= 43  SET 1430 us  ACK ok  rtt 1.36 ms
+  5.401 s  seq= 44  SET 1440 us  ACK ok  rtt 1.36 ms
+  5.501 s  seq= 45  SET 1450 us  ACK ok  rtt 1.35 ms
+  5.601 s  seq= 46  SET 1460 us  ACK ok  rtt 1.36 ms
+  5.701 s  seq= 47  SET 1470 us  ACK ok  rtt 1.36 ms
+  5.801 s  seq= 48  SET 1480 us  ACK ok  rtt 1.35 ms
+  5.901 s  seq= 49  SET 1490 us  ACK ok  rtt 1.35 ms
+  6.001 s  seq= 50  SET 1500 us  ACK ok  rtt 1.35 ms
+  6.101 s  seq= 51  SET 1510 us  ACK ok  rtt 1.35 ms
+  6.201 s  seq= 52  SET 1520 us  ACK ok  rtt 1.36 ms
+  6.301 s  seq= 53  SET 1530 us  ACK ok  rtt 1.35 ms
+  6.401 s  seq= 54  SET 1540 us  ACK ok  rtt 1.35 ms
+  6.501 s  seq= 55  SET 1550 us  ACK ok  rtt 1.36 ms
+  6.601 s  seq= 56  SET 1560 us  ACK ok  rtt 1.35 ms
+  6.701 s  seq= 57  SET 1570 us  ACK ok  rtt 1.35 ms
+  6.801 s  seq= 58  SET 1580 us  ACK ok  rtt 1.36 ms
+  6.901 s  seq= 59  SET 1590 us  ACK ok  rtt 1.36 ms
+  7.001 s  seq= 60  SET 1600 us  ACK ok  rtt 1.35 ms
+  7.101 s  seq= 61  SET 1610 us  ACK ok  rtt 1.35 ms
+  7.201 s  seq= 62  SET 1620 us  ACK ok  rtt 1.35 ms
+  7.301 s  seq= 63  SET 1630 us  ACK ok  rtt 1.36 ms
+  7.401 s  seq= 64  SET 1640 us  ACK ok  rtt 1.35 ms
+  7.501 s  seq= 65  SET 1650 us  ACK ok  rtt 1.35 ms
+  7.601 s  seq= 66  SET 1660 us  ACK ok  rtt 1.35 ms
+  7.701 s  seq= 67  SET 1670 us  ACK ok  rtt 1.36 ms
+  7.801 s  seq= 68  SET 1680 us  ACK ok  rtt 1.35 ms
+  7.901 s  seq= 69  SET 1690 us  ACK ok  rtt 1.35 ms
+  8.001 s  seq= 70  SET 1700 us  ACK ok  rtt 1.36 ms
+  8.101 s  seq= 71  SET 1710 us  ACK ok  rtt 1.36 ms
+  8.201 s  seq= 72  SET 1720 us  ACK ok  rtt 1.35 ms
+  8.301 s  seq= 73  SET 1730 us  ACK ok  rtt 1.35 ms
+  8.401 s  seq= 74  SET 1740 us  ACK ok  rtt 1.36 ms
+  8.501 s  seq= 75  SET 1750 us  ACK ok  rtt 1.35 ms
+  8.601 s  seq= 76  SET 1760 us  ACK ok  rtt 1.36 ms
+  8.701 s  seq= 77  SET 1770 us  ACK ok  rtt 1.35 ms
+  8.801 s  seq= 78  SET 1780 us  ACK ok  rtt 1.35 ms
+  8.901 s  seq= 79  SET 1790 us  ACK ok  rtt 1.36 ms
+  9.001 s  seq= 80  SET 1800 us  ACK ok  rtt 1.35 ms
+  9.101 s  seq= 81  SET 1810 us  ACK ok  rtt 1.35 ms
+  9.201 s  seq= 82  SET 1820 us  ACK ok  rtt 1.36 ms
+  9.301 s  seq= 83  SET 1830 us  ACK ok  rtt 1.35 ms
+  9.401 s  seq= 84  SET 1840 us  ACK ok  rtt 1.35 ms
+  9.501 s  seq= 85  SET 1850 us  ACK ok  rtt 1.36 ms
+  9.601 s  seq= 86  SET 1860 us  ACK ok  rtt 1.35 ms
+  9.701 s  seq= 87  SET 1870 us  ACK ok  rtt 1.36 ms
+  9.801 s  seq= 88  SET 1880 us  ACK ok  rtt 1.35 ms
+  9.901 s  seq= 89  SET 1890 us  ACK ok  rtt 1.35 ms
+ 10.001 s  seq= 90  SET 1900 us  ACK ok  rtt 1.35 ms
+ 10.101 s  seq= 91  SET 1910 us  ACK ok  rtt 1.36 ms
+ 10.201 s  seq= 92  SET 1920 us  ACK ok  rtt 1.35 ms
+ 10.301 s  seq= 93  SET 1930 us  ACK ok  rtt 1.36 ms
+ 10.401 s  seq= 94  SET 1940 us  ACK ok  rtt 1.35 ms
+ 10.501 s  seq= 95  SET 1950 us  ACK ok  rtt 1.36 ms
+ 10.601 s  seq= 96  SET 1960 us  ACK ok  rtt 1.35 ms
+ 10.701 s  seq= 97  SET 1970 us  ACK ok  rtt 1.35 ms
+ 10.801 s  seq= 98  SET 1980 us  ACK ok  rtt 1.35 ms
+ 10.901 s  seq= 99  SET 1990 us  ACK ok  rtt 1.35 ms
+ 11.001 s  seq=100  SET 2000 us  ACK ok  rtt 1.36 ms
+ 11.101 s  seq=101  SET 1990 us  ACK ok  rtt 1.35 ms
+ 11.201 s  seq=102  SET 1980 us  ACK ok  rtt 1.35 ms
+ 11.301 s  seq=103  SET 1970 us  ACK ok  rtt 1.36 ms
+ 11.401 s  seq=104  SET 1960 us  ACK ok  rtt 1.36 ms
+ 11.501 s  seq=105  SET 1950 us  ACK ok  rtt 1.35 ms
+ 11.601 s  seq=106  SET 1940 us  ACK ok  rtt 1.36 ms
+ 11.701 s  seq=107  SET 1930 us  ACK ok  rtt 1.36 ms
+ 11.801 s  seq=108  SET 1920 us  ACK ok  rtt 1.35 ms
+ 11.901 s  seq=109  SET 1910 us  ACK ok  rtt 1.35 ms
+ 12.001 s  seq=110  SET 1900 us  ACK ok  rtt 1.35 ms
+ 12.101 s  seq=111  SET 1890 us  ACK ok  rtt 1.35 ms
+ 12.201 s  seq=112  SET 1880 us  ACK ok  rtt 1.36 ms
+ 12.301 s  seq=113  SET 1870 us  ACK ok  rtt 1.35 ms
+ 12.401 s  seq=114  SET 1860 us  ACK ok  rtt 1.35 ms
+ 12.501 s  seq=115  SET 1850 us  ACK ok  rtt 1.36 ms
+ 12.601 s  seq=116  SET 1840 us  ACK ok  rtt 1.35 ms
+ 12.701 s  seq=117  SET 1830 us  ACK ok  rtt 1.36 ms
+ 12.801 s  seq=118  SET 1820 us  ACK ok  rtt 1.35 ms
+ 12.901 s  seq=119  SET 1810 us  ACK ok  rtt 1.36 ms
+ 13.001 s  seq=120  SET 1800 us  ACK ok  rtt 1.35 ms
+ 13.101 s  seq=121  SET 1790 us  ACK ok  rtt 1.36 ms
+ 13.201 s  seq=122  SET 1780 us  ACK ok  rtt 1.35 ms
+ 13.301 s  seq=123  SET 1770 us  ACK ok  rtt 1.36 ms
+ 13.401 s  seq=124  SET 1760 us  ACK ok  rtt 1.35 ms
+ 13.501 s  seq=125  SET 1750 us  ACK ok  rtt 1.35 ms
+ 13.601 s  seq=126  SET 1740 us  ACK ok  rtt 1.35 ms
+ 13.701 s  seq=127  SET 1730 us  ACK ok  rtt 1.35 ms
+ 13.801 s  seq=128  SET 1720 us  ACK ok  rtt 1.36 ms
+ 13.901 s  seq=129  SET 1710 us  ACK ok  rtt 1.36 ms
+ 14.001 s  seq=130  SET 1700 us  ACK ok  rtt 1.35 ms
+ 14.101 s  seq=131  SET 1690 us  ACK ok  rtt 1.36 ms
+ 14.201 s  seq=132  SET 1680 us  ACK ok  rtt 1.35 ms
+ 14.301 s  seq=133  SET 1670 us  ACK ok  rtt 1.35 ms
+ 14.401 s  seq=134  SET 1660 us  ACK ok  rtt 1.36 ms
+ 14.501 s  seq=135  SET 1650 us  ACK ok  rtt 1.36 ms
+ 14.601 s  seq=136  SET 1640 us  ACK ok  rtt 1.35 ms
+ 14.701 s  seq=137  SET 1630 us  ACK ok  rtt 1.35 ms
+ 14.801 s  seq=138  SET 1620 us  ACK ok  rtt 1.35 ms
+ 14.901 s  seq=139  SET 1610 us  ACK ok  rtt 1.35 ms
+ 15.001 s  seq=140  SET 1600 us  ACK ok  rtt 1.36 ms
+ 15.101 s  seq=141  SET 1590 us  ACK ok  rtt 1.36 ms
+ 15.201 s  seq=142  SET 1580 us  ACK ok  rtt 1.35 ms
+ 15.301 s  seq=143  SET 1570 us  ACK ok  rtt 1.36 ms
+ 15.401 s  seq=144  SET 1560 us  ACK ok  rtt 1.35 ms
+ 15.501 s  seq=145  SET 1550 us  ACK ok  rtt 1.36 ms
+ 15.601 s  seq=146  SET 1540 us  ACK ok  rtt 1.35 ms
+ 15.701 s  seq=147  SET 1530 us  ACK ok  rtt 1.36 ms
+ 15.801 s  seq=148  SET 1520 us  ACK ok  rtt 1.35 ms
+ 15.901 s  seq=149  SET 1510 us  ACK ok  rtt 1.35 ms
+ 16.001 s  seq=150  SET 1500 us  ACK ok  rtt 1.35 ms
+ 16.101 s  seq=151  SET 1490 us  ACK ok  rtt 1.35 ms
+ 16.201 s  seq=152  SET 1480 us  ACK ok  rtt 1.35 ms
+ 16.301 s  seq=153  SET 1470 us  ACK ok  rtt 1.36 ms
+ 16.401 s  seq=154  SET 1460 us  ACK ok  rtt 1.35 ms
+ 16.501 s  seq=155  SET 1450 us  ACK ok  rtt 1.36 ms
+ 16.601 s  seq=156  SET 1440 us  ACK ok  rtt 1.35 ms
+ 16.701 s  seq=157  SET 1430 us  ACK ok  rtt 1.35 ms
+ 16.801 s  seq=158  SET 1420 us  ACK ok  rtt 1.36 ms
+ 16.901 s  seq=159  SET 1410 us  ACK ok  rtt 1.36 ms
+ 17.001 s  seq=160  SET 1400 us  ACK ok  rtt 1.36 ms
+ 17.101 s  seq=161  SET 1390 us  ACK ok  rtt 1.35 ms
+ 17.201 s  seq=162  SET 1380 us  ACK ok  rtt 1.35 ms
+ 17.301 s  seq=163  SET 1370 us  ACK ok  rtt 1.35 ms
+ 17.401 s  seq=164  SET 1360 us  ACK ok  rtt 1.36 ms
+ 17.501 s  seq=165  SET 1350 us  ACK ok  rtt 1.35 ms
+ 17.601 s  seq=166  SET 1340 us  ACK ok  rtt 1.36 ms
+ 17.701 s  seq=167  SET 1330 us  ACK ok  rtt 1.37 ms
+ 17.801 s  seq=168  SET 1320 us  ACK ok  rtt 1.35 ms
+ 17.901 s  seq=169  SET 1310 us  ACK ok  rtt 1.35 ms
+ 18.001 s  seq=170  SET 1300 us  ACK ok  rtt 1.36 ms
+ 18.101 s  seq=171  SET 1290 us  ACK ok  rtt 1.35 ms
+ 18.201 s  seq=172  SET 1280 us  ACK ok  rtt 1.36 ms
+ 18.301 s  seq=173  SET 1270 us  ACK ok  rtt 1.34 ms
+ 18.401 s  seq=174  SET 1260 us  ACK ok  rtt 1.35 ms
+ 18.501 s  seq=175  SET 1250 us  ACK ok  rtt 1.36 ms
+ 18.601 s  seq=176  SET 1240 us  ACK ok  rtt 1.35 ms
+ 18.701 s  seq=177  SET 1230 us  ACK ok  rtt 1.36 ms
+ 18.801 s  seq=178  SET 1220 us  ACK ok  rtt 1.36 ms
+ 18.901 s  seq=179  SET 1210 us  ACK ok  rtt 1.36 ms
+ 19.001 s  seq=180  SET 1200 us  ACK ok  rtt 1.35 ms
+ 19.101 s  seq=181  SET 1190 us  ACK ok  rtt 1.36 ms
+ 19.201 s  seq=182  SET 1180 us  ACK ok  rtt 1.35 ms
+ 19.301 s  seq=183  SET 1170 us  ACK ok  rtt 1.36 ms
+ 19.401 s  seq=184  SET 1160 us  ACK ok  rtt 1.35 ms
+ 19.501 s  seq=185  SET 1150 us  ACK ok  rtt 1.35 ms
+ 19.601 s  seq=186  SET 1140 us  ACK ok  rtt 1.35 ms
+ 19.701 s  seq=187  SET 1130 us  ACK ok  rtt 1.36 ms
+ 19.801 s  seq=188  SET 1120 us  ACK ok  rtt 1.35 ms
+ 19.901 s  seq=189  SET 1110 us  ACK ok  rtt 1.36 ms
+ 20.001 s  seq=190  SET 1100 us  ACK ok  rtt 1.35 ms
+ 20.101 s  seq=191  SET 1090 us  ACK ok  rtt 1.36 ms
+ 20.201 s  seq=192  SET 1080 us  ACK ok  rtt 1.35 ms
+ 20.301 s  seq=193  SET 1070 us  ACK ok  rtt 1.35 ms
+ 20.401 s  seq=194  SET 1060 us  ACK ok  rtt 1.36 ms
+ 20.501 s  seq=195  SET 1050 us  ACK ok  rtt 1.35 ms
+ 20.601 s  seq=196  SET 1040 us  ACK ok  rtt 1.36 ms
+ 20.701 s  seq=197  SET 1030 us  ACK ok  rtt 1.36 ms
+ 20.801 s  seq=198  SET 1020 us  ACK ok  rtt 1.35 ms
+ 20.901 s  seq=199  SET 1010 us  ACK ok  rtt 1.36 ms
+ 21.001 s  seq=200  SET 1000 us  ACK ok  rtt 1.36 ms
+ 21.101 s  seq=201  SET 1010 us  ACK ok  rtt 1.35 ms
+ 21.201 s  seq=202  SET 1020 us  ACK ok  rtt 1.36 ms
+ 21.301 s  seq=203  SET 1030 us  ACK ok  rtt 1.35 ms
+ 21.401 s  seq=204  SET 1040 us  ACK ok  rtt 1.35 ms
+ 21.501 s  seq=205  SET 1050 us  ACK ok  rtt 1.35 ms
+ 21.601 s  seq=206  SET 1060 us  ACK ok  rtt 1.35 ms
+ 21.701 s  seq=207  SET 1070 us  ACK ok  rtt 1.35 ms
+ 21.801 s  seq=208  SET 1080 us  ACK ok  rtt 1.36 ms
+ 21.901 s  seq=209  SET 1090 us  ACK ok  rtt 1.35 ms
+ 22.001 s  seq=210  SET 1100 us  ACK ok  rtt 1.35 ms
+ 22.101 s  seq=211  SET 1110 us  ACK ok  rtt 1.36 ms
+ 22.201 s  seq=212  SET 1120 us  ACK ok  rtt 1.35 ms
+ 22.301 s  seq=213  SET 1130 us  ACK ok  rtt 1.36 ms
+ 22.401 s  seq=214  SET 1140 us  ACK ok  rtt 1.35 ms
+ 22.501 s  seq=215  SET 1150 us  ACK ok  rtt 1.36 ms
+ 22.601 s  seq=216  SET 1160 us  ACK ok  rtt 1.35 ms
+ 22.701 s  seq=217  SET 1170 us  ACK ok  rtt 1.35 ms
+ 22.801 s  seq=218  SET 1180 us  ACK ok  rtt 1.35 ms
+ 22.901 s  seq=219  SET 1190 us  ACK ok  rtt 1.36 ms
+ 23.001 s  seq=220  SET 1200 us  ACK ok  rtt 1.35 ms
+ 23.101 s  seq=221  SET 1210 us  ACK ok  rtt 1.36 ms
+ 23.201 s  seq=222  SET 1220 us  ACK ok  rtt 1.35 ms
+ 23.301 s  seq=223  SET 1230 us  ACK ok  rtt 1.36 ms
+ 23.401 s  seq=224  SET 1240 us  ACK ok  rtt 1.35 ms
+ 23.501 s  seq=225  SET 1250 us  ACK ok  rtt 1.35 ms
+ 23.601 s  seq=226  SET 1260 us  ACK ok  rtt 1.35 ms
+ 23.701 s  seq=227  SET 1270 us  ACK ok  rtt 1.36 ms
+ 23.801 s  seq=228  SET 1280 us  ACK ok  rtt 1.35 ms
+ 23.901 s  seq=229  SET 1290 us  ACK ok  rtt 1.35 ms
+ 24.001 s  seq=230  SET 1300 us  ACK ok  rtt 1.36 ms
+ 24.101 s  seq=231  SET 1310 us  ACK ok  rtt 1.36 ms
+ 24.201 s  seq=232  SET 1320 us  ACK ok  rtt 1.36 ms
+ 24.301 s  seq=233  SET 1330 us  ACK ok  rtt 1.35 ms
+ 24.401 s  seq=234  SET 1340 us  ACK ok  rtt 1.35 ms
+ 24.501 s  seq=235  SET 1350 us  ACK ok  rtt 1.36 ms
+ 24.601 s  seq=236  SET 1360 us  ACK ok  rtt 1.35 ms
+ 24.701 s  seq=237  SET 1370 us  ACK ok  rtt 1.35 ms
+ 24.801 s  seq=238  SET 1380 us  ACK ok  rtt 1.36 ms
+ 24.901 s  seq=239  SET 1390 us  ACK ok  rtt 1.35 ms
+ 25.001 s  seq=240  SET 1400 us  ACK ok  rtt 1.36 ms
+ 25.101 s  seq=241  SET 1410 us  ACK ok  rtt 1.35 ms
+ 25.201 s  seq=242  SET 1420 us  ACK ok  rtt 1.35 ms
+ 25.301 s  seq=243  SET 1430 us  ACK ok  rtt 1.36 ms
+ 25.401 s  seq=244  SET 1440 us  ACK ok  rtt 1.35 ms
+ 25.501 s  seq=245  SET 1450 us  ACK ok  rtt 1.35 ms
+ 25.601 s  seq=246  SET 1460 us  ACK ok  rtt 1.36 ms
+ 25.701 s  seq=247  SET 1470 us  ACK ok  rtt 1.36 ms
+ 25.801 s  seq=248  SET 1480 us  ACK ok  rtt 1.35 ms
+ 25.901 s  seq=249  SET 1490 us  ACK ok  rtt 1.36 ms
+ 26.001 s  seq=250  SET 1500 us  ACK ok  rtt 1.35 ms
+ 26.101 s  seq=251  SET 1510 us  ACK ok  rtt 1.36 ms
+ 26.201 s  seq=252  SET 1520 us  ACK ok  rtt 1.35 ms
+ 26.301 s  seq=253  SET 1530 us  ACK ok  rtt 1.35 ms
+ 26.401 s  seq=254  SET 1540 us  ACK ok  rtt 1.35 ms
+ 26.501 s  seq=255  SET 1550 us  ACK ok  rtt 1.36 ms
+ 26.601 s  seq=  0  SET 1560 us  ACK ok  rtt 1.35 ms
+ 26.701 s  seq=  1  SET 1570 us  ACK ok  rtt 1.36 ms
+ 26.801 s  seq=  2  SET 1580 us  ACK ok  rtt 1.35 ms
+ 26.901 s  seq=  3  SET 1590 us  ACK ok  rtt 1.36 ms
+ 27.001 s  seq=  4  SET 1600 us  ACK ok  rtt 1.35 ms
+ 27.101 s  seq=  5  SET 1610 us  ACK ok  rtt 1.35 ms
+ 27.201 s  seq=  6  SET 1620 us  ACK ok  rtt 1.35 ms
+ 27.301 s  seq=  7  SET 1630 us  ACK ok  rtt 1.35 ms
+ 27.401 s  seq=  8  SET 1640 us  ACK ok  rtt 1.36 ms
+ 27.501 s  seq=  9  SET 1650 us  ACK ok  rtt 1.35 ms
+ 27.601 s  seq= 10  SET 1660 us  ACK ok  rtt 1.35 ms
+ 27.701 s  seq= 11  SET 1670 us  ACK ok  rtt 1.36 ms
+ 27.801 s  seq= 12  SET 1680 us  ACK ok  rtt 1.36 ms
+ 27.901 s  seq= 13  SET 1690 us  ACK ok  rtt 1.35 ms
+ 28.001 s  seq= 14  SET 1700 us  ACK ok  rtt 1.36 ms
+ 28.101 s  seq= 15  SET 1710 us  ACK ok  rtt 1.36 ms
+ 28.201 s  seq= 16  SET 1720 us  ACK ok  rtt 1.35 ms
+ 28.301 s  seq= 17  SET 1730 us  ACK ok  rtt 1.35 ms
+ 28.401 s  seq= 18  SET 1740 us  ACK ok  rtt 1.35 ms
+ 28.501 s  seq= 19  SET 1750 us  ACK ok  rtt 1.35 ms
+ 28.601 s  seq= 20  SET 1760 us  ACK ok  rtt 1.36 ms
+ 28.701 s  seq= 21  SET 1770 us  ACK ok  rtt 1.35 ms
+ 28.801 s  seq= 22  SET 1780 us  ACK ok  rtt 1.35 ms
+ 28.901 s  seq= 23  SET 1790 us  ACK ok  rtt 1.36 ms
+ 29.001 s  seq= 24  SET 1800 us  ACK ok  rtt 1.35 ms
+ 29.101 s  seq= 25  SET 1810 us  ACK ok  rtt 1.35 ms
+ 29.201 s  seq= 26  SET 1820 us  ACK ok  rtt 1.35 ms
+ 29.301 s  seq= 27  SET 1830 us  ACK ok  rtt 1.36 ms
+ 29.401 s  seq= 28  SET 1840 us  ACK ok  rtt 1.35 ms
+ 29.501 s  seq= 29  SET 1850 us  ACK ok  rtt 1.35 ms
+ 29.601 s  seq= 30  SET 1860 us  ACK ok  rtt 1.35 ms
+ 29.701 s  seq= 31  SET 1870 us  ACK ok  rtt 1.36 ms
+ 29.801 s  seq= 32  SET 1880 us  ACK ok  rtt 1.35 ms
+ 29.901 s  seq= 33  SET 1890 us  ACK ok  rtt 1.36 ms
+ 30.001 s  seq= 34  SET 1900 us  ACK ok  rtt 1.35 ms
+ 30.101 s  seq= 35  SET 1910 us  ACK ok  rtt 1.36 ms
+ 30.201 s  seq= 36  SET 1920 us  ACK ok  rtt 1.35 ms
+ 30.301 s  seq= 37  SET 1930 us  ACK ok  rtt 1.35 ms
+ 30.401 s  seq= 38  SET 1940 us  ACK ok  rtt 1.35 ms
+ 30.501 s  seq= 39  SET 1950 us  ACK ok  rtt 1.36 ms
+ 30.601 s  seq= 40  SET 1960 us  ACK ok  rtt 1.35 ms
+ 30.701 s  seq= 41  SET 1970 us  ACK ok  rtt 1.35 ms
+ 30.801 s  seq= 42  SET 1980 us  ACK ok  rtt 1.35 ms
+ 30.901 s  seq= 43  SET 1990 us  ACK ok  rtt 1.35 ms
+ 31.001 s  seq= 44  SET 2000 us  ACK ok  rtt 1.36 ms
+ 31.101 s  seq= 45  SET 1990 us  ACK ok  rtt 1.36 ms
+ 31.201 s  seq= 46  SET 1980 us  ACK ok  rtt 1.35 ms
+ 31.301 s  seq= 47  SET 1970 us  ACK ok  rtt 1.36 ms
+ 31.401 s  seq= 48  SET 1960 us  ACK ok  rtt 1.35 ms
+ 31.501 s  seq= 49  SET 1950 us  ACK ok  rtt 1.35 ms
+ 31.601 s  seq= 50  SET 1940 us  ACK ok  rtt 1.36 ms
+ 31.701 s  seq= 51  SET 1930 us  ACK ok  rtt 1.35 ms
+ 31.801 s  seq= 52  SET 1920 us  ACK ok  rtt 1.36 ms
+ 31.901 s  seq= 53  SET 1910 us  ACK ok  rtt 1.35 ms
+ 32.001 s  seq= 54  SET 1900 us  ACK ok  rtt 1.35 ms
+ 32.101 s  seq= 55  SET 1890 us  ACK ok  rtt 1.35 ms
+ 32.201 s  seq= 56  SET 1880 us  ACK ok  rtt 1.35 ms
+ 32.301 s  seq= 57  SET 1870 us  ACK ok  rtt 1.35 ms
+ 32.401 s  seq= 58  SET 1860 us  ACK ok  rtt 1.36 ms
+ 32.501 s  seq= 59  SET 1850 us  ACK ok  rtt 1.35 ms
+ 32.601 s  seq= 60  SET 1840 us  ACK ok  rtt 1.35 ms
+ 32.701 s  seq= 61  SET 1830 us  ACK ok  rtt 1.36 ms
+ 32.801 s  seq= 62  SET 1820 us  ACK ok  rtt 1.35 ms
+ 32.901 s  seq= 63  SET 1810 us  ACK ok  rtt 1.36 ms
+ 33.001 s  seq= 64  SET 1800 us  ACK ok  rtt 1.36 ms
+ 33.101 s  seq= 65  SET 1790 us  ACK ok  rtt 1.35 ms
+ 33.201 s  seq= 66  SET 1780 us  ACK ok  rtt 1.35 ms
+ 33.301 s  seq= 67  SET 1770 us  ACK ok  rtt 1.36 ms
+ 33.401 s  seq= 68  SET 1760 us  ACK ok  rtt 1.35 ms
+ 33.501 s  seq= 69  SET 1750 us  ACK ok  rtt 1.36 ms
+ 33.601 s  seq= 70  SET 1740 us  ACK ok  rtt 1.35 ms
+ 33.701 s  seq= 71  SET 1730 us  ACK ok  rtt 1.36 ms
+ 33.801 s  seq= 72  SET 1720 us  ACK ok  rtt 1.35 ms
+ 33.901 s  seq= 73  SET 1710 us  ACK ok  rtt 1.35 ms
+ 34.001 s  seq= 74  SET 1700 us  ACK ok  rtt 1.35 ms
+ 34.101 s  seq= 75  SET 1690 us  ACK ok  rtt 1.36 ms
+ 34.201 s  seq= 76  SET 1680 us  ACK ok  rtt 1.36 ms
+ 34.301 s  seq= 77  SET 1670 us  ACK ok  rtt 1.35 ms
+ 34.401 s  seq= 78  SET 1660 us  ACK ok  rtt 1.35 ms
+ 34.501 s  seq= 79  SET 1650 us  ACK ok  rtt 1.36 ms
+ 34.601 s  seq= 80  SET 1640 us  ACK ok  rtt 1.36 ms
+ 34.701 s  seq= 81  SET 1630 us  ACK ok  rtt 1.35 ms
+ 34.801 s  seq= 82  SET 1620 us  ACK ok  rtt 1.36 ms
+ 34.901 s  seq= 83  SET 1610 us  ACK ok  rtt 1.36 ms
+ 35.001 s  seq= 84  SET 1600 us  ACK ok  rtt 1.35 ms
+ 35.101 s  seq= 85  SET 1590 us  ACK ok  rtt 1.35 ms
+ 35.201 s  seq= 86  SET 1580 us  ACK ok  rtt 1.35 ms
+ 35.301 s  seq= 87  SET 1570 us  ACK ok  rtt 1.35 ms
+ 35.401 s  seq= 88  SET 1560 us  ACK ok  rtt 1.36 ms
+ 35.501 s  seq= 89  SET 1550 us  ACK ok  rtt 1.34 ms
+ 35.601 s  seq= 90  SET 1540 us  ACK ok  rtt 1.35 ms
+ 35.701 s  seq= 91  SET 1530 us  ACK ok  rtt 1.35 ms
+ 35.801 s  seq= 92  SET 1520 us  ACK ok  rtt 1.35 ms
+ 35.901 s  seq= 93  SET 1510 us  ACK ok  rtt 1.36 ms
+ 36.001 s  seq= 94  SET 1500 us  ACK ok  rtt 1.35 ms
+ 36.101 s  seq= 95  SET 1490 us  ACK ok  rtt 1.36 ms
+ 36.201 s  seq= 96  SET 1480 us  ACK ok  rtt 1.35 ms
+ 36.301 s  seq= 97  SET 1470 us  ACK ok  rtt 1.36 ms
+ 36.401 s  seq= 98  SET 1460 us  ACK ok  rtt 1.35 ms
+ 36.501 s  seq= 99  SET 1450 us  ACK ok  rtt 1.36 ms
+ 36.601 s  seq=100  SET 1440 us  ACK ok  rtt 1.35 ms
+ 36.701 s  seq=101  SET 1430 us  ACK ok  rtt 1.35 ms
+ 36.801 s  seq=102  SET 1420 us  ACK ok  rtt 1.35 ms
+ 36.901 s  seq=103  SET 1410 us  ACK ok  rtt 1.36 ms
+ 37.001 s  seq=104  SET 1400 us  ACK ok  rtt 1.36 ms
+ 37.101 s  seq=105  SET 1390 us  ACK ok  rtt 1.36 ms
+ 37.201 s  seq=106  SET 1380 us  ACK ok  rtt 1.36 ms
+ 37.301 s  seq=107  SET 1370 us  ACK ok  rtt 1.36 ms
+ 37.401 s  seq=108  SET 1360 us  ACK ok  rtt 1.35 ms
+ 37.501 s  seq=109  SET 1350 us  ACK ok  rtt 1.35 ms
+ 37.601 s  seq=110  SET 1340 us  ACK ok  rtt 1.36 ms
+ 37.701 s  seq=111  SET 1330 us  ACK ok  rtt 1.35 ms
+ 37.801 s  seq=112  SET 1320 us  ACK ok  rtt 1.35 ms
+ 37.901 s  seq=113  SET 1310 us  ACK ok  rtt 1.35 ms
+ 38.001 s  seq=114  SET 1300 us  ACK ok  rtt 1.35 ms
+ 38.101 s  seq=115  SET 1290 us  ACK ok  rtt 1.35 ms
+ 38.201 s  seq=116  SET 1280 us  ACK ok  rtt 1.35 ms
+ 38.301 s  seq=117  SET 1270 us  ACK ok  rtt 1.35 ms
+ 38.401 s  seq=118  SET 1260 us  ACK ok  rtt 1.36 ms
+ 38.501 s  seq=119  SET 1250 us  ACK ok  rtt 1.36 ms
+ 38.601 s  seq=120  SET 1240 us  ACK ok  rtt 1.35 ms
+ 38.701 s  seq=121  SET 1230 us  ACK ok  rtt 1.36 ms
+ 38.801 s  seq=122  SET 1220 us  ACK ok  rtt 1.35 ms
+ 38.901 s  seq=123  SET 1210 us  ACK ok  rtt 1.36 ms
+ 39.001 s  seq=124  SET 1200 us  ACK ok  rtt 1.35 ms
+ 39.101 s  seq=125  SET 1190 us  ACK ok  rtt 1.35 ms
+ 39.201 s  seq=126  SET 1180 us  ACK ok  rtt 1.35 ms
+ 39.301 s  seq=127  SET 1170 us  ACK ok  rtt 1.35 ms
+ 39.401 s  seq=128  SET 1160 us  ACK ok  rtt 1.35 ms
+ 39.501 s  seq=129  SET 1150 us  ACK ok  rtt 1.36 ms
+ 39.601 s  seq=130  SET 1140 us  ACK ok  rtt 1.35 ms
+ 39.701 s  seq=131  SET 1130 us  ACK ok  rtt 1.36 ms
+ 39.801 s  seq=132  SET 1120 us  ACK ok  rtt 1.35 ms
+ 39.901 s  seq=133  SET 1110 us  ACK ok  rtt 1.35 ms
+ 40.001 s  seq=134  SET 1100 us  ACK ok  rtt 1.35 ms
+ 40.101 s  seq=135  SET 1090 us  ACK ok  rtt 1.36 ms
+ 40.201 s  seq=136  SET 1080 us  ACK ok  rtt 1.36 ms
+ 40.301 s  seq=137  SET 1070 us  ACK ok  rtt 1.35 ms
+ 40.401 s  seq=138  SET 1060 us  ACK ok  rtt 1.35 ms
+ 40.501 s  seq=139  SET 1050 us  ACK ok  rtt 1.36 ms
+ 40.601 s  seq=140  SET 1040 us  ACK ok  rtt 1.36 ms
+ 40.701 s  seq=141  SET 1030 us  ACK ok  rtt 1.35 ms
+ 40.801 s  seq=142  SET 1020 us  ACK ok  rtt 1.36 ms
+ 40.901 s  seq=143  SET 1010 us  ACK ok  rtt 1.36 ms
+ 41.001 s  seq=144  SET 1000 us  ACK ok  rtt 1.35 ms
+ 41.101 s  seq=145  SET 1010 us  ACK ok  rtt 1.35 ms
+ 41.201 s  seq=146  SET 1020 us  ACK ok  rtt 1.35 ms
+ 41.301 s  seq=147  SET 1030 us  ACK ok  rtt 1.35 ms
+ 41.401 s  seq=148  SET 1040 us  ACK ok  rtt 1.36 ms
+ 41.501 s  seq=149  SET 1050 us  ACK ok  rtt 1.36 ms
+ 41.601 s  seq=150  SET 1060 us  ACK ok  rtt 1.35 ms
+ 41.701 s  seq=151  SET 1070 us  ACK ok  rtt 1.36 ms
+ 41.801 s  seq=152  SET 1080 us  ACK ok  rtt 1.35 ms
+ 41.901 s  seq=153  SET 1090 us  ACK ok  rtt 1.36 ms
+ 42.001 s  seq=154  SET 1100 us  ACK ok  rtt 1.36 ms
+ 42.101 s  seq=155  SET 1110 us  ACK ok  rtt 1.36 ms
+ 42.201 s  seq=156  SET 1120 us  ACK ok  rtt 1.35 ms
+ 42.301 s  seq=157  SET 1130 us  ACK ok  rtt 1.36 ms
+ 42.401 s  seq=158  SET 1140 us  ACK ok  rtt 1.35 ms
+ 42.501 s  seq=159  SET 1150 us  ACK ok  rtt 1.36 ms
+ 42.601 s  seq=160  SET 1160 us  ACK ok  rtt 1.35 ms
+ 42.701 s  seq=161  SET 1170 us  ACK ok  rtt 1.35 ms
+ 42.801 s  seq=162  SET 1180 us  ACK ok  rtt 1.35 ms
+ 42.901 s  seq=163  SET 1190 us  ACK ok  rtt 1.36 ms
+ 43.001 s  seq=164  SET 1200 us  ACK ok  rtt 1.35 ms
+ 43.101 s  seq=165  SET 1210 us  ACK ok  rtt 1.36 ms
+ 43.201 s  seq=166  SET 1220 us  ACK ok  rtt 1.35 ms
+ 43.301 s  seq=167  SET 1230 us  ACK ok  rtt 1.36 ms
+ 43.401 s  seq=168  SET 1240 us  ACK ok  rtt 1.35 ms
+ 43.501 s  seq=169  SET 1250 us  ACK ok  rtt 1.35 ms
+ 43.601 s  seq=170  SET 1260 us  ACK ok  rtt 1.35 ms
+ 43.701 s  seq=171  SET 1270 us  ACK ok  rtt 1.35 ms
+ 43.801 s  seq=172  SET 1280 us  ACK ok  rtt 1.35 ms
+ 43.901 s  seq=173  SET 1290 us  ACK ok  rtt 1.35 ms
+ 44.001 s  seq=174  SET 1300 us  ACK ok  rtt 1.35 ms
+ 44.101 s  seq=175  SET 1310 us  ACK ok  rtt 1.36 ms
+ 44.201 s  seq=176  SET 1320 us  ACK ok  rtt 1.36 ms
+ 44.301 s  seq=177  SET 1330 us  ACK ok  rtt 1.35 ms
+ 44.401 s  seq=178  SET 1340 us  ACK ok  rtt 1.36 ms
+ 44.501 s  seq=179  SET 1350 us  ACK ok  rtt 1.35 ms
+ 44.601 s  seq=180  SET 1360 us  ACK ok  rtt 1.35 ms
+ 44.701 s  seq=181  SET 1370 us  ACK ok  rtt 1.35 ms
+ 44.801 s  seq=182  SET 1380 us  ACK ok  rtt 1.35 ms
+ 44.901 s  seq=183  SET 1390 us  ACK ok  rtt 1.35 ms
+ 45.001 s  seq=184  SET 1400 us  ACK ok  rtt 1.36 ms
+ 45.101 s  seq=185  SET 1410 us  ACK ok  rtt 1.35 ms
+ 45.201 s  seq=186  SET 1420 us  ACK ok  rtt 1.35 ms
+ 45.301 s  seq=187  SET 1430 us  ACK ok  rtt 1.36 ms
+ 45.401 s  seq=188  SET 1440 us  ACK ok  rtt 1.35 ms
+ 45.501 s  seq=189  SET 1450 us  ACK ok  rtt 1.36 ms
+ 45.601 s  seq=190  SET 1460 us  ACK ok  rtt 1.35 ms
+ 45.701 s  seq=191  SET 1470 us  ACK ok  rtt 1.36 ms
+ 45.801 s  seq=192  SET 1480 us  ACK ok  rtt 1.35 ms
+ 45.901 s  seq=193  SET 1490 us  ACK ok  rtt 1.35 ms
+ 46.001 s  seq=194  SET 1500 us  ACK ok  rtt 1.35 ms
+ 46.101 s  seq=195  SET 1510 us  ACK ok  rtt 1.36 ms
+ 46.201 s  seq=196  SET 1520 us  ACK ok  rtt 1.35 ms
+ 46.301 s  seq=197  SET 1530 us  ACK ok  rtt 1.36 ms
+ 46.401 s  seq=198  SET 1540 us  ACK ok  rtt 1.35 ms
+ 46.501 s  seq=199  SET 1550 us  ACK ok  rtt 1.36 ms
+ 46.601 s  seq=200  SET 1560 us  ACK ok  rtt 1.35 ms
+ 46.701 s  seq=201  SET 1570 us  ACK ok  rtt 1.35 ms
+ 46.801 s  seq=202  SET 1580 us  ACK ok  rtt 1.35 ms
+ 46.901 s  seq=203  SET 1590 us  ACK ok  rtt 1.36 ms
+ 47.001 s  seq=204  SET 1600 us  ACK ok  rtt 1.36 ms
+ 47.101 s  seq=205  SET 1610 us  ACK ok  rtt 1.35 ms
+ 47.201 s  seq=206  SET 1620 us  ACK ok  rtt 1.35 ms
+ 47.301 s  seq=207  SET 1630 us  ACK ok  rtt 1.35 ms
+ 47.401 s  seq=208  SET 1640 us  ACK ok  rtt 1.35 ms
+ 47.501 s  seq=209  SET 1650 us  ACK ok  rtt 1.35 ms
+ 47.601 s  seq=210  SET 1660 us  ACK ok  rtt 1.36 ms
+ 47.701 s  seq=211  SET 1670 us  ACK ok  rtt 1.36 ms
+ 47.801 s  seq=212  SET 1680 us  ACK ok  rtt 1.35 ms
+ 47.901 s  seq=213  SET 1690 us  ACK ok  rtt 1.35 ms
+ 48.001 s  seq=214  SET 1700 us  ACK ok  rtt 1.36 ms
+ 48.101 s  seq=215  SET 1710 us  ACK ok  rtt 1.35 ms
+ 48.201 s  seq=216  SET 1720 us  ACK ok  rtt 1.36 ms
+ 48.301 s  seq=217  SET 1730 us  ACK ok  rtt 1.35 ms
+ 48.401 s  seq=218  SET 1740 us  ACK ok  rtt 1.35 ms
+ 48.501 s  seq=219  SET 1750 us  ACK ok  rtt 1.36 ms
+ 48.601 s  seq=220  SET 1760 us  ACK ok  rtt 1.35 ms
+ 48.701 s  seq=221  SET 1770 us  ACK ok  rtt 1.36 ms
+ 48.801 s  seq=222  SET 1780 us  ACK ok  rtt 1.36 ms
+ 48.901 s  seq=223  SET 1790 us  ACK ok  rtt 1.35 ms
+ 49.001 s  seq=224  SET 1800 us  ACK ok  rtt 1.35 ms
+ 49.101 s  seq=225  SET 1810 us  ACK ok  rtt 1.36 ms
+ 49.201 s  seq=226  SET 1820 us  ACK ok  rtt 1.35 ms
+ 49.301 s  seq=227  SET 1830 us  ACK ok  rtt 1.36 ms
+ 49.401 s  seq=228  SET 1840 us  ACK ok  rtt 1.36 ms
+ 49.501 s  seq=229  SET 1850 us  ACK ok  rtt 1.35 ms
+ 49.601 s  seq=230  SET 1860 us  ACK ok  rtt 1.35 ms
+ 49.701 s  seq=231  SET 1870 us  ACK ok  rtt 1.36 ms
+ 49.801 s  seq=232  SET 1880 us  ACK ok  rtt 1.35 ms
+ 49.901 s  seq=233  SET 1890 us  ACK ok  rtt 1.36 ms
+ 50.001 s  seq=234  SET 1900 us  ACK ok  rtt 1.35 ms
+ 50.101 s  seq=235  SET 1910 us  ACK ok  rtt 1.36 ms
+ 50.201 s  seq=236  SET 1920 us  ACK ok  rtt 1.35 ms
+ 50.301 s  seq=237  SET 1930 us  ACK ok  rtt 1.35 ms
+ 50.401 s  seq=238  SET 1940 us  ACK ok  rtt 1.35 ms
+ 50.501 s  seq=239  SET 1950 us  ACK ok  rtt 1.35 ms
+ 50.601 s  seq=240  SET 1960 us  ACK ok  rtt 1.36 ms
+ 50.701 s  seq=241  SET 1970 us  ACK ok  rtt 1.35 ms
+ 50.801 s  seq=242  SET 1980 us  ACK ok  rtt 1.35 ms
+ 50.901 s  seq=243  SET 1990 us  ACK ok  rtt 1.35 ms
+ 51.001 s  seq=244  SET 2000 us  ACK ok  rtt 1.36 ms
+ 51.101 s  seq=245  SET 1990 us  ACK ok  rtt 1.35 ms
+ 51.201 s  seq=246  SET 1980 us  ACK ok  rtt 1.36 ms
+ 51.301 s  seq=247  SET 1970 us  ACK ok  rtt 1.36 ms
+ 51.401 s  seq=248  SET 1960 us  ACK ok  rtt 1.35 ms
+ 51.501 s  seq=249  SET 1950 us  ACK ok  rtt 1.35 ms
+ 51.601 s  seq=250  SET 1940 us  ACK ok  rtt 1.35 ms
+ 51.701 s  seq=251  SET 1930 us  ACK ok  rtt 1.35 ms
+ 51.801 s  seq=252  SET 1920 us  ACK ok  rtt 1.36 ms
+ 51.901 s  seq=253  SET 1910 us  ACK ok  rtt 1.35 ms
+ 52.001 s  seq=254  SET 1900 us  ACK ok  rtt 1.35 ms
+ 52.101 s  seq=255  SET 1890 us  ACK ok  rtt 1.36 ms
+ 52.201 s  seq=  0  SET 1880 us  ACK ok  rtt 1.35 ms
+ 52.301 s  seq=  1  SET 1870 us  ACK ok  rtt 1.36 ms
+ 52.401 s  seq=  2  SET 1860 us  ACK ok  rtt 1.35 ms
+ 52.501 s  seq=  3  SET 1850 us  ACK ok  rtt 1.36 ms
+ 52.601 s  seq=  4  SET 1840 us  ACK ok  rtt 1.35 ms
+ 52.701 s  seq=  5  SET 1830 us  ACK ok  rtt 1.35 ms
+ 52.801 s  seq=  6  SET 1820 us  ACK ok  rtt 1.35 ms
+ 52.901 s  seq=  7  SET 1810 us  ACK ok  rtt 1.36 ms
+ 53.001 s  seq=  8  SET 1800 us  ACK ok  rtt 1.35 ms
+ 53.101 s  seq=  9  SET 1790 us  ACK ok  rtt 1.36 ms
+ 53.201 s  seq= 10  SET 1780 us  ACK ok  rtt 1.35 ms
+ 53.301 s  seq= 11  SET 1770 us  ACK ok  rtt 1.36 ms
+ 53.401 s  seq= 12  SET 1760 us  ACK ok  rtt 1.35 ms
+ 53.501 s  seq= 13  SET 1750 us  ACK ok  rtt 1.35 ms
+ 53.601 s  seq= 14  SET 1740 us  ACK ok  rtt 1.36 ms
+ 53.701 s  seq= 15  SET 1730 us  ACK ok  rtt 1.36 ms
+ 53.801 s  seq= 16  SET 1720 us  ACK ok  rtt 1.35 ms
+ 53.901 s  seq= 17  SET 1710 us  ACK ok  rtt 1.35 ms
+ 54.001 s  seq= 18  SET 1700 us  ACK ok  rtt 1.36 ms
+ 54.101 s  seq= 19  SET 1690 us  ACK ok  rtt 1.35 ms
+ 54.201 s  seq= 20  SET 1680 us  ACK ok  rtt 1.36 ms
+ 54.301 s  seq= 21  SET 1670 us  ACK ok  rtt 1.36 ms
+ 54.401 s  seq= 22  SET 1660 us  ACK ok  rtt 1.35 ms
+ 54.501 s  seq= 23  SET 1650 us  ACK ok  rtt 1.36 ms
+ 54.601 s  seq= 24  SET 1640 us  ACK ok  rtt 1.36 ms
+ 54.701 s  seq= 25  SET 1630 us  ACK ok  rtt 1.35 ms
+ 54.801 s  seq= 26  SET 1620 us  ACK ok  rtt 1.36 ms
+ 54.901 s  seq= 27  SET 1610 us  ACK ok  rtt 1.35 ms
+ 55.001 s  seq= 28  SET 1600 us  ACK ok  rtt 1.35 ms
+ 55.101 s  seq= 29  SET 1590 us  ACK ok  rtt 1.35 ms
+ 55.201 s  seq= 30  SET 1580 us  ACK ok  rtt 1.35 ms
+ 55.301 s  seq= 31  SET 1570 us  ACK ok  rtt 1.35 ms
+ 55.401 s  seq= 32  SET 1560 us  ACK ok  rtt 1.36 ms
+ 55.501 s  seq= 33  SET 1550 us  ACK ok  rtt 1.36 ms
+ 55.601 s  seq= 34  SET 1540 us  ACK ok  rtt 1.35 ms
+ 55.701 s  seq= 35  SET 1530 us  ACK ok  rtt 1.36 ms
+ 55.801 s  seq= 36  SET 1520 us  ACK ok  rtt 1.35 ms
+ 55.901 s  seq= 37  SET 1510 us  ACK ok  rtt 1.36 ms
+ 56.001 s  seq= 38  SET 1500 us  ACK ok  rtt 1.35 ms
+ 56.101 s  seq= 39  SET 1490 us  ACK ok  rtt 1.36 ms
+ 56.201 s  seq= 40  SET 1480 us  ACK ok  rtt 1.36 ms
+ 56.301 s  seq= 41  SET 1470 us  ACK ok  rtt 1.35 ms
+ 56.401 s  seq= 42  SET 1460 us  ACK ok  rtt 1.35 ms
+ 56.501 s  seq= 43  SET 1450 us  ACK ok  rtt 1.35 ms
+ 56.601 s  seq= 44  SET 1440 us  ACK ok  rtt 1.35 ms
+ 56.701 s  seq= 45  SET 1430 us  ACK ok  rtt 1.36 ms
+ 56.801 s  seq= 46  SET 1420 us  ACK ok  rtt 1.35 ms
+ 56.901 s  seq= 47  SET 1410 us  ACK ok  rtt 1.36 ms
+ 57.001 s  seq= 48  SET 1400 us  ACK ok  rtt 1.35 ms
+ 57.101 s  seq= 49  SET 1390 us  ACK ok  rtt 1.35 ms
+ 57.201 s  seq= 50  SET 1380 us  ACK ok  rtt 1.36 ms
+ 57.301 s  seq= 51  SET 1370 us  ACK ok  rtt 1.36 ms
+ 57.401 s  seq= 52  SET 1360 us  ACK ok  rtt 1.35 ms
+ 57.501 s  seq= 53  SET 1350 us  ACK ok  rtt 1.35 ms
+ 57.601 s  seq= 54  SET 1340 us  ACK ok  rtt 1.35 ms
+ 57.701 s  seq= 55  SET 1330 us  ACK ok  rtt 1.35 ms
+ 57.801 s  seq= 56  SET 1320 us  ACK ok  rtt 1.36 ms
+ 57.901 s  seq= 57  SET 1310 us  ACK ok  rtt 1.35 ms
+ 58.001 s  seq= 58  SET 1300 us  ACK ok  rtt 1.36 ms
+ 58.101 s  seq= 59  SET 1290 us  ACK ok  rtt 1.36 ms
+ 58.201 s  seq= 60  SET 1280 us  ACK ok  rtt 1.35 ms
+ 58.301 s  seq= 61  SET 1270 us  ACK ok  rtt 1.35 ms
+ 58.401 s  seq= 62  SET 1260 us  ACK ok  rtt 1.36 ms
+ 58.501 s  seq= 63  SET 1250 us  ACK ok  rtt 1.35 ms
+ 58.601 s  seq= 64  SET 1240 us  ACK ok  rtt 1.35 ms
+ 58.701 s  seq= 65  SET 1230 us  ACK ok  rtt 1.35 ms
+ 58.801 s  seq= 66  SET 1220 us  ACK ok  rtt 1.35 ms
+ 58.901 s  seq= 67  SET 1210 us  ACK ok  rtt 1.35 ms
+ 59.001 s  seq= 68  SET 1200 us  ACK ok  rtt 1.35 ms
+ 59.101 s  seq= 69  SET 1190 us  ACK ok  rtt 1.36 ms
+ 59.201 s  seq= 70  SET 1180 us  ACK ok  rtt 1.36 ms
+ 59.301 s  seq= 71  SET 1170 us  ACK ok  rtt 1.36 ms
+ 59.401 s  seq= 72  SET 1160 us  ACK ok  rtt 1.35 ms
+ 59.501 s  seq= 73  SET 1150 us  ACK ok  rtt 1.36 ms
+ 59.601 s  seq= 74  SET 1140 us  ACK ok  rtt 1.35 ms
+ 59.701 s  seq= 75  SET 1130 us  ACK ok  rtt 1.36 ms
+ 59.801 s  seq= 76  SET 1120 us  ACK ok  rtt 1.35 ms
+ 59.901 s  seq= 77  SET 1110 us  ACK ok  rtt 1.35 ms
+ 60.001 s  seq= 78  SET 1100 us  ACK ok  rtt 1.35 ms
+ 60.101 s  seq= 79  SET 1090 us  ACK ok  rtt 1.35 ms
+ 60.201 s  seq= 80  SET 1080 us  ACK ok  rtt 1.35 ms
+ 60.301 s  seq= 81  SET 1070 us  ACK ok  rtt 1.36 ms
+ 60.401 s  seq= 82  SET 1060 us  ACK ok  rtt 1.36 ms
+ 60.501 s  seq= 83  SET 1050 us  ACK ok  rtt 1.36 ms
+ 60.601 s  seq= 84  SET 1040 us  ACK ok  rtt 1.35 ms
+ 60.701 s  seq= 85  SET 1030 us  ACK ok  rtt 1.35 ms
+ 60.801 s  seq= 86  SET 1020 us  ACK ok  rtt 1.36 ms
+ 60.901 s  seq= 87  SET 1010 us  ACK ok  rtt 1.35 ms
+ 61.001 s  seq= 88  SET 1000 us  ACK ok  rtt 1.36 ms
+ 61.101 s  seq= 89  SET 1010 us  ACK ok  rtt 1.35 ms
+ 61.201 s  seq= 90  SET 1020 us  ACK ok  rtt 1.35 ms
+ 61.301 s  seq= 91  SET 1030 us  ACK ok  rtt 1.35 ms
+ 61.401 s  seq= 92  SET 1040 us  ACK ok  rtt 1.36 ms
+ 61.501 s  seq= 93  SET 1050 us  ACK ok  rtt 1.35 ms
+ 61.601 s  seq= 94  SET 1060 us  ACK ok  rtt 1.36 ms
+ 61.701 s  seq= 95  SET 1070 us  ACK ok  rtt 1.35 ms
+ 61.801 s  seq= 96  SET 1080 us  ACK ok  rtt 1.35 ms
+ 61.901 s  seq= 97  SET 1090 us  ACK ok  rtt 1.35 ms
+ 62.001 s  seq= 98  SET 1100 us  ACK ok  rtt 1.35 ms
+ 62.101 s  seq= 99  SET 1110 us  ACK ok  rtt 1.36 ms
+ 62.201 s  seq=100  SET 1120 us  ACK ok  rtt 1.36 ms
+ 62.301 s  seq=101  SET 1130 us  ACK ok  rtt 1.35 ms
+ 62.401 s  seq=102  SET 1140 us  ACK ok  rtt 1.35 ms
+ 62.501 s  seq=103  SET 1150 us  ACK ok  rtt 1.37 ms
+ 62.601 s  seq=104  SET 1160 us  ACK ok  rtt 1.35 ms
+ 62.701 s  seq=105  SET 1170 us  ACK ok  rtt 1.36 ms
+ 62.801 s  seq=106  SET 1180 us  ACK ok  rtt 1.35 ms
+ 62.901 s  seq=107  SET 1190 us  ACK ok  rtt 1.36 ms
+ 63.001 s  seq=108  SET 1200 us  ACK ok  rtt 1.35 ms
+ 63.101 s  seq=109  SET 1210 us  ACK ok  rtt 1.35 ms
+ 63.201 s  seq=110  SET 1220 us  ACK ok  rtt 1.35 ms
+ 63.301 s  seq=111  SET 1230 us  ACK ok  rtt 1.36 ms
+ 63.401 s  seq=112  SET 1240 us  ACK ok  rtt 1.35 ms
+ 63.501 s  seq=113  SET 1250 us  ACK ok  rtt 1.36 ms
+ 63.601 s  seq=114  SET 1260 us  ACK ok  rtt 1.35 ms
+ 63.701 s  seq=115  SET 1270 us  ACK ok  rtt 1.36 ms
+ 63.801 s  seq=116  SET 1280 us  ACK ok  rtt 1.36 ms
+ 63.901 s  seq=117  SET 1290 us  ACK ok  rtt 1.35 ms
+ 64.001 s  seq=118  SET 1300 us  ACK ok  rtt 1.36 ms
+ 64.101 s  seq=119  SET 1310 us  ACK ok  rtt 1.36 ms
+ 64.201 s  seq=120  SET 1320 us  ACK ok  rtt 1.35 ms
+ 64.301 s  seq=121  SET 1330 us  ACK ok  rtt 1.35 ms
+ 64.401 s  seq=122  SET 1340 us  ACK ok  rtt 1.36 ms
+ 64.501 s  seq=123  SET 1350 us  ACK ok  rtt 1.35 ms
+ 64.601 s  seq=124  SET 1360 us  ACK ok  rtt 1.36 ms
+ 64.701 s  seq=125  SET 1370 us  ACK ok  rtt 1.36 ms
+ 64.801 s  seq=126  SET 1380 us  ACK ok  rtt 1.35 ms
+ 64.901 s  seq=127  SET 1390 us  ACK ok  rtt 1.36 ms
+ 65.001 s  seq=128  SET 1400 us  ACK ok  rtt 1.35 ms
+ 65.101 s  seq=129  SET 1410 us  ACK ok  rtt 1.35 ms
+ 65.201 s  seq=130  SET 1420 us  ACK ok  rtt 1.36 ms
+ 65.301 s  seq=131  SET 1430 us  ACK ok  rtt 1.36 ms
+ 65.401 s  seq=132  SET 1440 us  ACK ok  rtt 1.35 ms
+ 65.501 s  seq=133  SET 1450 us  ACK ok  rtt 1.35 ms
+ 65.601 s  seq=134  SET 1460 us  ACK ok  rtt 1.35 ms
+ 65.701 s  seq=135  SET 1470 us  ACK ok  rtt 1.36 ms
+ 65.801 s  seq=136  SET 1480 us  ACK ok  rtt 1.35 ms
+ 65.901 s  seq=137  SET 1490 us  ACK ok  rtt 1.35 ms
+ 66.001 s  seq=138  SET 1500 us  ACK ok  rtt 1.35 ms
+ 66.101 s  seq=139  SET 1510 us  ACK ok  rtt 1.36 ms
+ 66.201 s  seq=140  SET 1520 us  ACK ok  rtt 1.35 ms
+ 66.301 s  seq=141  SET 1530 us  ACK ok  rtt 1.36 ms
+ 66.401 s  seq=142  SET 1540 us  ACK ok  rtt 1.35 ms
+ 66.501 s  seq=143  SET 1550 us  ACK ok  rtt 1.36 ms
+ 66.601 s  seq=144  SET 1560 us  ACK ok  rtt 1.35 ms
+ 66.701 s  seq=145  SET 1570 us  ACK ok  rtt 1.35 ms
+ 66.801 s  seq=146  SET 1580 us  ACK ok  rtt 1.35 ms
+ 66.901 s  seq=147  SET 1590 us  ACK ok  rtt 1.35 ms
+ 67.001 s  seq=148  SET 1600 us  ACK ok  rtt 1.35 ms
+ 67.101 s  seq=149  SET 1610 us  ACK ok  rtt 1.36 ms
+ 67.201 s  seq=150  SET 1620 us  ACK ok  rtt 1.35 ms
+ 67.301 s  seq=151  SET 1630 us  ACK ok  rtt 1.36 ms
+ 67.401 s  seq=152  SET 1640 us  ACK ok  rtt 1.36 ms
+ 67.501 s  seq=153  SET 1650 us  ACK ok  rtt 1.35 ms
+ 67.601 s  seq=154  SET 1660 us  ACK ok  rtt 1.36 ms
+ 67.701 s  seq=155  SET 1670 us  ACK ok  rtt 1.36 ms
+ 67.801 s  seq=156  SET 1680 us  ACK ok  rtt 1.35 ms
+ 67.901 s  seq=157  SET 1690 us  ACK ok  rtt 1.35 ms
+ 68.001 s  seq=158  SET 1700 us  ACK ok  rtt 1.35 ms
+ 68.101 s  seq=159  SET 1710 us  ACK ok  rtt 1.35 ms
+ 68.201 s  seq=160  SET 1720 us  ACK ok  rtt 1.36 ms
+ 68.301 s  seq=161  SET 1730 us  ACK ok  rtt 1.35 ms
+ 68.401 s  seq=162  SET 1740 us  ACK ok  rtt 1.35 ms
+ 68.501 s  seq=163  SET 1750 us  ACK ok  rtt 1.36 ms
+ 68.601 s  seq=164  SET 1760 us  ACK ok  rtt 1.35 ms
+ 68.701 s  seq=165  SET 1770 us  ACK ok  rtt 1.35 ms
+ 68.801 s  seq=166  SET 1780 us  ACK ok  rtt 1.35 ms
+ 68.901 s  seq=167  SET 1790 us  ACK ok  rtt 1.36 ms
+ 69.001 s  seq=168  SET 1800 us  ACK ok  rtt 1.35 ms
+ 69.101 s  seq=169  SET 1810 us  ACK ok  rtt 1.35 ms
+ 69.201 s  seq=170  SET 1820 us  ACK ok  rtt 1.35 ms
+ 69.301 s  seq=171  SET 1830 us  ACK ok  rtt 1.36 ms
+ 69.401 s  seq=172  SET 1840 us  ACK ok  rtt 1.35 ms
+ 69.501 s  seq=173  SET 1850 us  ACK ok  rtt 1.36 ms
+ 69.601 s  seq=174  SET 1860 us  ACK ok  rtt 1.34 ms
+ 69.701 s  seq=175  SET 1870 us  ACK ok  rtt 1.36 ms
+ 69.801 s  seq=176  SET 1880 us  ACK ok  rtt 1.35 ms
+ 69.901 s  seq=177  SET 1890 us  ACK ok  rtt 1.35 ms
+ 70.001 s  seq=178  SET 1900 us  ACK ok  rtt 1.36 ms
+ 70.101 s  seq=179  SET 1910 us  ACK ok  rtt 1.36 ms
+ 70.201 s  seq=180  SET 1920 us  ACK ok  rtt 1.35 ms
+ 70.301 s  seq=181  SET 1930 us  ACK ok  rtt 1.35 ms
+ 70.401 s  seq=182  SET 1940 us  ACK ok  rtt 1.35 ms
+ 70.501 s  seq=183  SET 1950 us  ACK ok  rtt 1.35 ms
+ 70.601 s  seq=184  SET 1960 us  ACK ok  rtt 1.35 ms
+ 70.701 s  seq=185  SET 1970 us  ACK ok  rtt 1.36 ms
+ 70.801 s  seq=186  SET 1980 us  ACK ok  rtt 1.35 ms
+ 70.901 s  seq=187  SET 1990 us  ACK ok  rtt 1.36 ms
+ 71.001 s  seq=188  SET 2000 us  ACK ok  rtt 1.35 ms
+ 71.101 s  seq=189  SET 1990 us  ACK ok  rtt 1.35 ms
+ 71.201 s  seq=190  SET 1980 us  ACK ok  rtt 1.36 ms
+ 71.301 s  seq=191  SET 1970 us  ACK ok  rtt 1.35 ms
+ 71.401 s  seq=192  SET 1960 us  ACK ok  rtt 1.35 ms
+ 71.501 s  seq=193  SET 1950 us  ACK ok  rtt 1.35 ms
+ 71.601 s  seq=194  SET 1940 us  ACK ok  rtt 1.35 ms
+ 71.701 s  seq=195  SET 1930 us  ACK ok  rtt 1.35 ms
+ 71.801 s  seq=196  SET 1920 us  ACK ok  rtt 1.35 ms
+ 71.901 s  seq=197  SET 1910 us  ACK ok  rtt 1.36 ms
+ 72.001 s  seq=198  SET 1900 us  ACK ok  rtt 1.36 ms
+ 72.101 s  seq=199  SET 1890 us  ACK ok  rtt 1.36 ms
+ 72.201 s  seq=200  SET 1880 us  ACK ok  rtt 1.35 ms
+ 72.301 s  seq=201  SET 1870 us  ACK ok  rtt 1.36 ms
+ 72.401 s  seq=202  SET 1860 us  ACK ok  rtt 1.35 ms
+ 72.501 s  seq=203  SET 1850 us  ACK ok  rtt 1.36 ms
+ 72.601 s  seq=204  SET 1840 us  ACK ok  rtt 1.35 ms
+ 72.701 s  seq=205  SET 1830 us  ACK ok  rtt 1.35 ms
+ 72.801 s  seq=206  SET 1820 us  ACK ok  rtt 1.35 ms
+ 72.901 s  seq=207  SET 1810 us  ACK ok  rtt 1.35 ms
+ 73.001 s  seq=208  SET 1800 us  ACK ok  rtt 1.35 ms
+ 73.101 s  seq=209  SET 1790 us  ACK ok  rtt 1.36 ms
+ 73.201 s  seq=210  SET 1780 us  ACK ok  rtt 1.35 ms
+ 73.301 s  seq=211  SET 1770 us  ACK ok  rtt 1.36 ms
+ 73.401 s  seq=212  SET 1760 us  ACK ok  rtt 1.35 ms
+ 73.501 s  seq=213  SET 1750 us  ACK ok  rtt 1.35 ms
+ 73.601 s  seq=214  SET 1740 us  ACK ok  rtt 1.36 ms
+ 73.701 s  seq=215  SET 1730 us  ACK ok  rtt 1.36 ms
+ 73.801 s  seq=216  SET 1720 us  ACK ok  rtt 1.35 ms
+ 73.901 s  seq=217  SET 1710 us  ACK ok  rtt 1.35 ms
+ 74.001 s  seq=218  SET 1700 us  ACK ok  rtt 1.35 ms
+ 74.101 s  seq=219  SET 1690 us  ACK ok  rtt 1.35 ms
+ 74.201 s  seq=220  SET 1680 us  ACK ok  rtt 1.36 ms
+ 74.301 s  seq=221  SET 1670 us  ACK ok  rtt 1.35 ms
+ 74.401 s  seq=222  SET 1660 us  ACK ok  rtt 1.36 ms
+ 74.501 s  seq=223  SET 1650 us  ACK ok  rtt 1.36 ms
+ 74.601 s  seq=224  SET 1640 us  ACK ok  rtt 1.35 ms
+ 74.701 s  seq=225  SET 1630 us  ACK ok  rtt 1.35 ms
+ 74.801 s  seq=226  SET 1620 us  ACK ok  rtt 1.36 ms
+ 74.901 s  seq=227  SET 1610 us  ACK ok  rtt 1.35 ms
+ 75.001 s  seq=228  SET 1600 us  ACK ok  rtt 1.36 ms
+ 75.101 s  seq=229  SET 1590 us  ACK ok  rtt 1.35 ms
+ 75.201 s  seq=230  SET 1580 us  ACK ok  rtt 1.35 ms
+ 75.301 s  seq=231  SET 1570 us  ACK ok  rtt 1.37 ms
+ 75.401 s  seq=232  SET 1560 us  ACK ok  rtt 1.35 ms
+ 75.501 s  seq=233  SET 1550 us  ACK ok  rtt 1.36 ms
+ 75.601 s  seq=234  SET 1540 us  ACK ok  rtt 1.35 ms
+ 75.701 s  seq=235  SET 1530 us  ACK ok  rtt 1.36 ms
+ 75.801 s  seq=236  SET 1520 us  ACK ok  rtt 1.35 ms
+ 75.901 s  seq=237  SET 1510 us  ACK ok  rtt 1.35 ms
+ 76.001 s  seq=238  SET 1500 us  ACK ok  rtt 1.35 ms
+ 76.101 s  seq=239  SET 1490 us  ACK ok  rtt 1.36 ms
+ 76.201 s  seq=240  SET 1480 us  ACK ok  rtt 1.35 ms
+ 76.301 s  seq=241  SET 1470 us  ACK ok  rtt 1.35 ms
+ 76.401 s  seq=242  SET 1460 us  ACK ok  rtt 1.35 ms
+ 76.501 s  seq=243  SET 1450 us  ACK ok  rtt 1.35 ms
+ 76.601 s  seq=244  SET 1440 us  ACK ok  rtt 1.35 ms
+ 76.701 s  seq=245  SET 1430 us  ACK ok  rtt 1.36 ms
+ 76.801 s  seq=246  SET 1420 us  ACK ok  rtt 1.36 ms
+ 76.901 s  seq=247  SET 1410 us  ACK ok  rtt 1.36 ms
+ 77.001 s  seq=248  SET 1400 us  ACK ok  rtt 1.35 ms
+ 77.101 s  seq=249  SET 1390 us  ACK ok  rtt 1.35 ms
+ 77.201 s  seq=250  SET 1380 us  ACK ok  rtt 1.36 ms
+ 77.301 s  seq=251  SET 1370 us  ACK ok  rtt 1.35 ms
+ 77.401 s  seq=252  SET 1360 us  ACK ok  rtt 1.36 ms
+ 77.501 s  seq=253  SET 1350 us  ACK ok  rtt 1.35 ms
+ 77.601 s  seq=254  SET 1340 us  ACK ok  rtt 1.35 ms
+ 77.701 s  seq=255  SET 1330 us  ACK ok  rtt 1.35 ms
+ 77.801 s  seq=  0  SET 1320 us  ACK ok  rtt 1.36 ms
+ 77.901 s  seq=  1  SET 1310 us  ACK ok  rtt 1.35 ms
+ 78.001 s  seq=  2  SET 1300 us  ACK ok  rtt 1.35 ms
+ 78.101 s  seq=  3  SET 1290 us  ACK ok  rtt 1.36 ms
+ 78.201 s  seq=  4  SET 1280 us  ACK ok  rtt 1.35 ms
+ 78.301 s  seq=  5  SET 1270 us  ACK ok  rtt 1.36 ms
+ 78.401 s  seq=  6  SET 1260 us  ACK ok  rtt 1.35 ms
+ 78.501 s  seq=  7  SET 1250 us  ACK ok  rtt 1.36 ms
+ 78.601 s  seq=  8  SET 1240 us  ACK ok  rtt 1.36 ms
+ 78.701 s  seq=  9  SET 1230 us  ACK ok  rtt 1.35 ms
+ 78.801 s  seq= 10  SET 1220 us  ACK ok  rtt 1.35 ms
+ 78.901 s  seq= 11  SET 1210 us  ACK ok  rtt 1.35 ms
+ 79.001 s  seq= 12  SET 1200 us  ACK ok  rtt 1.35 ms
+ 79.101 s  seq= 13  SET 1190 us  ACK ok  rtt 1.36 ms
+ 79.201 s  seq= 14  SET 1180 us  ACK ok  rtt 1.36 ms
+ 79.301 s  seq= 15  SET 1170 us  ACK ok  rtt 1.36 ms
+ 79.401 s  seq= 16  SET 1160 us  ACK ok  rtt 1.35 ms
+ 79.501 s  seq= 17  SET 1150 us  ACK ok  rtt 1.35 ms
+ 79.601 s  seq= 18  SET 1140 us  ACK ok  rtt 1.35 ms
+ 79.701 s  seq= 19  SET 1130 us  ACK ok  rtt 1.36 ms
+ 79.801 s  seq= 20  SET 1120 us  ACK ok  rtt 1.35 ms
+ 79.901 s  seq= 21  SET 1110 us  ACK ok  rtt 1.35 ms
+ 80.001 s  seq= 22  SET 1100 us  ACK ok  rtt 1.35 ms
+ 80.101 s  seq= 23  SET 1090 us  ACK ok  rtt 1.35 ms
+ 80.201 s  seq= 24  SET 1080 us  ACK ok  rtt 1.36 ms
+ 80.301 s  seq= 25  SET 1070 us  ACK ok  rtt 1.35 ms
+ 80.401 s  seq= 26  SET 1060 us  ACK ok  rtt 1.36 ms
+ 80.501 s  seq= 27  SET 1050 us  ACK ok  rtt 1.36 ms
+ 80.601 s  seq= 28  SET 1040 us  ACK ok  rtt 1.35 ms
+ 80.701 s  seq= 29  SET 1030 us  ACK ok  rtt 1.35 ms
+ 80.801 s  seq= 30  SET 1020 us  ACK ok  rtt 1.35 ms
+ 80.901 s  seq= 31  SET 1010 us  ACK ok  rtt 1.35 ms
+ 81.001 s  seq= 32  SET 1000 us  ACK ok  rtt 1.36 ms
+ 81.101 s  seq= 33  SET 1010 us  ACK ok  rtt 1.34 ms
+ 81.201 s  seq= 34  SET 1020 us  ACK ok  rtt 1.35 ms
+ 81.301 s  seq= 35  SET 1030 us  ACK ok  rtt 1.35 ms
+ 81.401 s  seq= 36  SET 1040 us  ACK ok  rtt 1.35 ms
+ 81.501 s  seq= 37  SET 1050 us  ACK ok  rtt 1.36 ms
+ 81.601 s  seq= 38  SET 1060 us  ACK ok  rtt 1.36 ms
+ 81.701 s  seq= 39  SET 1070 us  ACK ok  rtt 1.36 ms
+ 81.801 s  seq= 40  SET 1080 us  ACK ok  rtt 1.35 ms
+ 81.901 s  seq= 41  SET 1090 us  ACK ok  rtt 1.36 ms
+ 82.001 s  seq= 42  SET 1100 us  ACK ok  rtt 1.35 ms
+ 82.101 s  seq= 43  SET 1110 us  ACK ok  rtt 1.36 ms
+ 82.201 s  seq= 44  SET 1120 us  ACK ok  rtt 1.35 ms
+ 82.301 s  seq= 45  SET 1130 us  ACK ok  rtt 1.35 ms
+ 82.401 s  seq= 46  SET 1140 us  ACK ok  rtt 1.35 ms
+ 82.501 s  seq= 47  SET 1150 us  ACK ok  rtt 1.36 ms
+ 82.601 s  seq= 48  SET 1160 us  ACK ok  rtt 1.35 ms
+ 82.701 s  seq= 49  SET 1170 us  ACK ok  rtt 1.36 ms
+ 82.801 s  seq= 50  SET 1180 us  ACK ok  rtt 1.36 ms
+ 82.901 s  seq= 51  SET 1190 us  ACK ok  rtt 1.36 ms
+ 83.001 s  seq= 52  SET 1200 us  ACK ok  rtt 1.35 ms
+ 83.101 s  seq= 53  SET 1210 us  ACK ok  rtt 1.35 ms
+ 83.201 s  seq= 54  SET 1220 us  ACK ok  rtt 1.36 ms
+ 83.301 s  seq= 55  SET 1230 us  ACK ok  rtt 1.35 ms
+ 83.401 s  seq= 56  SET 1240 us  ACK ok  rtt 1.36 ms
+ 83.501 s  seq= 57  SET 1250 us  ACK ok  rtt 1.35 ms
+ 83.601 s  seq= 58  SET 1260 us  ACK ok  rtt 1.35 ms
+ 83.701 s  seq= 59  SET 1270 us  ACK ok  rtt 1.35 ms
+ 83.801 s  seq= 60  SET 1280 us  ACK ok  rtt 1.36 ms
+ 83.901 s  seq= 61  SET 1290 us  ACK ok  rtt 1.35 ms
+ 84.001 s  seq= 62  SET 1300 us  ACK ok  rtt 1.36 ms
+ 84.101 s  seq= 63  SET 1310 us  ACK ok  rtt 1.35 ms
+ 84.201 s  seq= 64  SET 1320 us  ACK ok  rtt 1.35 ms
+ 84.301 s  seq= 65  SET 1330 us  ACK ok  rtt 1.35 ms
+ 84.401 s  seq= 66  SET 1340 us  ACK ok  rtt 1.35 ms
+ 84.501 s  seq= 67  SET 1350 us  ACK ok  rtt 1.36 ms
+ 84.601 s  seq= 68  SET 1360 us  ACK ok  rtt 1.36 ms
+ 84.701 s  seq= 69  SET 1370 us  ACK ok  rtt 1.35 ms
+ 84.801 s  seq= 70  SET 1380 us  ACK ok  rtt 1.35 ms
+ 84.901 s  seq= 71  SET 1390 us  ACK ok  rtt 1.37 ms
+ 85.001 s  seq= 72  SET 1400 us  ACK ok  rtt 1.35 ms
+ 85.101 s  seq= 73  SET 1410 us  ACK ok  rtt 1.36 ms
+ 85.201 s  seq= 74  SET 1420 us  ACK ok  rtt 1.35 ms
+ 85.301 s  seq= 75  SET 1430 us  ACK ok  rtt 1.36 ms
+ 85.401 s  seq= 76  SET 1440 us  ACK ok  rtt 1.35 ms
+ 85.501 s  seq= 77  SET 1450 us  ACK ok  rtt 1.35 ms
+ 85.601 s  seq= 78  SET 1460 us  ACK ok  rtt 1.35 ms
+ 85.701 s  seq= 79  SET 1470 us  ACK ok  rtt 1.36 ms
+ 85.801 s  seq= 80  SET 1480 us  ACK ok  rtt 1.35 ms
+ 85.901 s  seq= 81  SET 1490 us  ACK ok  rtt 1.36 ms
+ 86.001 s  seq= 82  SET 1500 us  ACK ok  rtt 1.35 ms
+ 86.101 s  seq= 83  SET 1510 us  ACK ok  rtt 1.36 ms
+ 86.201 s  seq= 84  SET 1520 us  ACK ok  rtt 1.35 ms
+ 86.301 s  seq= 85  SET 1530 us  ACK ok  rtt 1.35 ms
+ 86.401 s  seq= 86  SET 1540 us  ACK ok  rtt 1.35 ms
+ 86.501 s  seq= 87  SET 1550 us  ACK ok  rtt 1.36 ms
+ 86.601 s  seq= 88  SET 1560 us  ACK ok  rtt 1.35 ms
+ 86.701 s  seq= 89  SET 1570 us  ACK ok  rtt 1.35 ms
+ 86.801 s  seq= 90  SET 1580 us  ACK ok  rtt 1.35 ms
+ 86.901 s  seq= 91  SET 1590 us  ACK ok  rtt 1.35 ms
+ 87.001 s  seq= 92  SET 1600 us  ACK ok  rtt 1.36 ms
+ 87.101 s  seq= 93  SET 1610 us  ACK ok  rtt 1.35 ms
+ 87.201 s  seq= 94  SET 1620 us  ACK ok  rtt 1.36 ms
+ 87.301 s  seq= 95  SET 1630 us  ACK ok  rtt 1.36 ms
+ 87.401 s  seq= 96  SET 1640 us  ACK ok  rtt 1.35 ms
+ 87.501 s  seq= 97  SET 1650 us  ACK ok  rtt 1.35 ms
+ 87.601 s  seq= 98  SET 1660 us  ACK ok  rtt 1.36 ms
+ 87.701 s  seq= 99  SET 1670 us  ACK ok  rtt 1.35 ms
+ 87.801 s  seq=100  SET 1680 us  ACK ok  rtt 1.36 ms
+ 87.901 s  seq=101  SET 1690 us  ACK ok  rtt 1.35 ms
+ 88.001 s  seq=102  SET 1700 us  ACK ok  rtt 1.35 ms
+ 88.101 s  seq=103  SET 1710 us  ACK ok  rtt 1.37 ms
+ 88.201 s  seq=104  SET 1720 us  ACK ok  rtt 1.35 ms
+ 88.301 s  seq=105  SET 1730 us  ACK ok  rtt 1.35 ms
+ 88.401 s  seq=106  SET 1740 us  ACK ok  rtt 1.36 ms
+ 88.501 s  seq=107  SET 1750 us  ACK ok  rtt 1.35 ms
+ 88.601 s  seq=108  SET 1760 us  ACK ok  rtt 1.35 ms
+ 88.701 s  seq=109  SET 1770 us  ACK ok  rtt 1.35 ms
+ 88.801 s  seq=110  SET 1780 us  ACK ok  rtt 1.35 ms
+ 88.901 s  seq=111  SET 1790 us  ACK ok  rtt 1.36 ms
+ 89.001 s  seq=112  SET 1800 us  ACK ok  rtt 1.35 ms
+ 89.101 s  seq=113  SET 1810 us  ACK ok  rtt 1.36 ms
+ 89.201 s  seq=114  SET 1820 us  ACK ok  rtt 1.35 ms
+ 89.301 s  seq=115  SET 1830 us  ACK ok  rtt 1.36 ms
+ 89.401 s  seq=116  SET 1840 us  ACK ok  rtt 1.35 ms
+ 89.501 s  seq=117  SET 1850 us  ACK ok  rtt 1.36 ms
+ 89.601 s  seq=118  SET 1860 us  ACK ok  rtt 1.35 ms
+ 89.701 s  seq=119  SET 1870 us  ACK ok  rtt 1.36 ms
+ 89.801 s  seq=120  SET 1880 us  ACK ok  rtt 1.35 ms
+ 89.901 s  seq=121  SET 1890 us  ACK ok  rtt 1.35 ms
+ 90.001 s  seq=122  SET 1900 us  ACK ok  rtt 1.35 ms
+ 90.101 s  seq=123  SET 1910 us  ACK ok  rtt 1.35 ms
+ 90.201 s  seq=124  SET 1920 us  ACK ok  rtt 1.36 ms
+ 90.301 s  seq=125  SET 1930 us  ACK ok  rtt 1.36 ms
+ 90.401 s  seq=126  SET 1940 us  ACK ok  rtt 1.35 ms
+ 90.501 s  seq=127  SET 1950 us  ACK ok  rtt 1.36 ms
+ 90.601 s  seq=128  SET 1960 us  ACK ok  rtt 1.36 ms
+ 90.701 s  seq=129  SET 1970 us  ACK ok  rtt 1.35 ms
+ 90.801 s  seq=130  SET 1980 us  ACK ok  rtt 1.36 ms
+ 90.901 s  seq=131  SET 1990 us  ACK ok  rtt 1.36 ms
+ 91.001 s  seq=132  SET 2000 us  ACK ok  rtt 1.35 ms
+ 91.101 s  seq=133  SET 1990 us  ACK ok  rtt 1.35 ms
+ 91.201 s  seq=134  SET 1980 us  ACK ok  rtt 1.35 ms
+ 91.301 s  seq=135  SET 1970 us  ACK ok  rtt 1.36 ms
+ 91.401 s  seq=136  SET 1960 us  ACK ok  rtt 1.36 ms
+ 91.501 s  seq=137  SET 1950 us  ACK ok  rtt 1.35 ms
+ 91.601 s  seq=138  SET 1940 us  ACK ok  rtt 1.36 ms
+ 91.701 s  seq=139  SET 1930 us  ACK ok  rtt 1.36 ms
+ 91.801 s  seq=140  SET 1920 us  ACK ok  rtt 1.35 ms
+ 91.901 s  seq=141  SET 1910 us  ACK ok  rtt 1.35 ms
+ 92.001 s  seq=142  SET 1900 us  ACK ok  rtt 1.36 ms
+ 92.101 s  seq=143  SET 1890 us  ACK ok  rtt 1.35 ms
+ 92.201 s  seq=144  SET 1880 us  ACK ok  rtt 1.35 ms
+ 92.301 s  seq=145  SET 1870 us  ACK ok  rtt 1.35 ms
+ 92.401 s  seq=146  SET 1860 us  ACK ok  rtt 1.35 ms
+ 92.501 s  seq=147  SET 1850 us  ACK ok  rtt 1.36 ms
+ 92.601 s  seq=148  SET 1840 us  ACK ok  rtt 1.35 ms
+ 92.701 s  seq=149  SET 1830 us  ACK ok  rtt 1.36 ms
+ 92.801 s  seq=150  SET 1820 us  ACK ok  rtt 1.35 ms
+ 92.901 s  seq=151  SET 1810 us  ACK ok  rtt 1.36 ms
+ 93.001 s  seq=152  SET 1800 us  ACK ok  rtt 1.35 ms
+ 93.101 s  seq=153  SET 1790 us  ACK ok  rtt 1.35 ms
+ 93.201 s  seq=154  SET 1780 us  ACK ok  rtt 1.35 ms
+ 93.301 s  seq=155  SET 1770 us  ACK ok  rtt 1.36 ms
+ 93.401 s  seq=156  SET 1760 us  ACK ok  rtt 1.35 ms
+ 93.501 s  seq=157  SET 1750 us  ACK ok  rtt 1.35 ms
+ 93.601 s  seq=158  SET 1740 us  ACK ok  rtt 1.36 ms
+ 93.701 s  seq=159  SET 1730 us  ACK ok  rtt 1.35 ms
+ 93.801 s  seq=160  SET 1720 us  ACK ok  rtt 1.36 ms
+ 93.901 s  seq=161  SET 1710 us  ACK ok  rtt 1.36 ms
+ 94.001 s  seq=162  SET 1700 us  ACK ok  rtt 1.35 ms
+ 94.101 s  seq=163  SET 1690 us  ACK ok  rtt 1.36 ms
+ 94.201 s  seq=164  SET 1680 us  ACK ok  rtt 1.35 ms
+ 94.301 s  seq=165  SET 1670 us  ACK ok  rtt 1.35 ms
+ 94.401 s  seq=166  SET 1660 us  ACK ok  rtt 1.36 ms
+ 94.501 s  seq=167  SET 1650 us  ACK ok  rtt 1.36 ms
+ 94.601 s  seq=168  SET 1640 us  ACK ok  rtt 1.35 ms
+ 94.701 s  seq=169  SET 1630 us  ACK ok  rtt 1.35 ms
+ 94.801 s  seq=170  SET 1620 us  ACK ok  rtt 1.35 ms
+ 94.901 s  seq=171  SET 1610 us  ACK ok  rtt 1.35 ms
+ 95.001 s  seq=172  SET 1600 us  ACK ok  rtt 1.36 ms
+ 95.101 s  seq=173  SET 1590 us  ACK ok  rtt 1.36 ms
+ 95.201 s  seq=174  SET 1580 us  ACK ok  rtt 1.35 ms
+ 95.301 s  seq=175  SET 1570 us  ACK ok  rtt 1.36 ms
+ 95.401 s  seq=176  SET 1560 us  ACK ok  rtt 1.35 ms
+ 95.501 s  seq=177  SET 1550 us  ACK ok  rtt 1.36 ms
+ 95.601 s  seq=178  SET 1540 us  ACK ok  rtt 1.35 ms
+ 95.701 s  seq=179  SET 1530 us  ACK ok  rtt 1.36 ms
+ 95.801 s  seq=180  SET 1520 us  ACK ok  rtt 1.35 ms
+ 95.901 s  seq=181  SET 1510 us  ACK ok  rtt 1.35 ms
+ 96.001 s  seq=182  SET 1500 us  ACK ok  rtt 1.35 ms
+ 96.101 s  seq=183  SET 1490 us  ACK ok  rtt 1.35 ms
+ 96.201 s  seq=184  SET 1480 us  ACK ok  rtt 1.35 ms
+ 96.301 s  seq=185  SET 1470 us  ACK ok  rtt 1.36 ms
+ 96.401 s  seq=186  SET 1460 us  ACK ok  rtt 1.35 ms
+ 96.501 s  seq=187  SET 1450 us  ACK ok  rtt 1.36 ms
+ 96.601 s  seq=188  SET 1440 us  ACK ok  rtt 1.36 ms
+ 96.701 s  seq=189  SET 1430 us  ACK ok  rtt 1.35 ms
+ 96.801 s  seq=190  SET 1420 us  ACK ok  rtt 1.36 ms
+ 96.901 s  seq=191  SET 1410 us  ACK ok  rtt 1.36 ms
+ 97.001 s  seq=192  SET 1400 us  ACK ok  rtt 1.35 ms
+ 97.101 s  seq=193  SET 1390 us  ACK ok  rtt 1.35 ms
+ 97.201 s  seq=194  SET 1380 us  ACK ok  rtt 1.35 ms
+ 97.301 s  seq=195  SET 1370 us  ACK ok  rtt 1.35 ms
+ 97.401 s  seq=196  SET 1360 us  ACK ok  rtt 1.36 ms
+ 97.501 s  seq=197  SET 1350 us  ACK ok  rtt 1.35 ms
+ 97.601 s  seq=198  SET 1340 us  ACK ok  rtt 1.35 ms
+ 97.701 s  seq=199  SET 1330 us  ACK ok  rtt 1.37 ms
+ 97.801 s  seq=200  SET 1320 us  ACK ok  rtt 1.35 ms
+ 97.901 s  seq=201  SET 1310 us  ACK ok  rtt 1.35 ms
+ 98.001 s  seq=202  SET 1300 us  ACK ok  rtt 1.35 ms
+ 98.101 s  seq=203  SET 1290 us  ACK ok  rtt 1.36 ms
+ 98.201 s  seq=204  SET 1280 us  ACK ok  rtt 1.35 ms
+ 98.301 s  seq=205  SET 1270 us  ACK ok  rtt 1.35 ms
+ 98.401 s  seq=206  SET 1260 us  ACK ok  rtt 1.35 ms
+ 98.501 s  seq=207  SET 1250 us  ACK ok  rtt 1.36 ms
+ 98.601 s  seq=208  SET 1240 us  ACK ok  rtt 1.35 ms
+ 98.701 s  seq=209  SET 1230 us  ACK ok  rtt 1.36 ms
+ 98.801 s  seq=210  SET 1220 us  ACK ok  rtt 1.36 ms
+ 98.901 s  seq=211  SET 1210 us  ACK ok  rtt 1.36 ms
+ 99.001 s  seq=212  SET 1200 us  ACK ok  rtt 1.35 ms
+ 99.101 s  seq=213  SET 1190 us  ACK ok  rtt 1.35 ms
+ 99.201 s  seq=214  SET 1180 us  ACK ok  rtt 1.35 ms
+ 99.301 s  seq=215  SET 1170 us  ACK ok  rtt 1.36 ms
+ 99.401 s  seq=216  SET 1160 us  ACK ok  rtt 1.35 ms
+ 99.501 s  seq=217  SET 1150 us  ACK ok  rtt 1.35 ms
+ 99.601 s  seq=218  SET 1140 us  ACK ok  rtt 1.35 ms
+ 99.701 s  seq=219  SET 1130 us  ACK ok  rtt 1.35 ms
+ 99.801 s  seq=220  SET 1120 us  ACK ok  rtt 1.36 ms
+ 99.901 s  seq=221  SET 1110 us  ACK ok  rtt 1.36 ms
+100.001 s  seq=222  SET 1100 us  ACK ok  rtt 1.36 ms
+100.101 s  seq=223  SET 1090 us  ACK ok  rtt 1.36 ms
+100.201 s  seq=224  SET 1080 us  ACK ok  rtt 1.35 ms
+100.301 s  seq=225  SET 1070 us  ACK ok  rtt 1.35 ms
+100.401 s  seq=226  SET 1060 us  ACK ok  rtt 1.36 ms
+100.501 s  seq=227  SET 1050 us  ACK ok  rtt 1.35 ms
+100.601 s  seq=228  SET 1040 us  ACK ok  rtt 1.35 ms
+100.701 s  seq=229  SET 1030 us  ACK ok  rtt 1.35 ms
+100.801 s  seq=230  SET 1020 us  ACK ok  rtt 1.35 ms
+100.901 s  seq=231  SET 1010 us  ACK ok  rtt 1.36 ms
+
+==== SUMMARY over 1000 commands ====
+sent                       1000
+ACKed first time           1000
+needed a retry (then ACK)  0
+failed after 3 retries     0
+rejected, STATUS 01        0
+round trip typical (median) 1358 us
+round trip worst            1373 us
+TELEMETRY frames received  5050
+TELEMETRY gaps in COUNT    0
+CRC errors / len errors / idle aborts / rx restarts   0 / 0 / 0 / 0
+
+CSV
+n,commanded_us,measured_us,rtt_us
+0,1000,999,1360
+1,1010,1009,1355
+2,1020,1019,1358
+3,1030,1029,1362
+4,1040,1039,1351
+5,1050,1049,1355
+6,1060,1059,1359
+7,1070,1069,1359
+8,1080,1079,1360
+9,1090,1089,1365
+10,1100,1099,1352
+11,1110,1109,1365
+12,1120,1119,1352
+13,1130,1129,1357
+14,1140,1139,1362
+15,1150,1149,1357
+16,1160,1159,1364
+17,1170,1169,1350
+18,1180,1179,1353
+19,1190,1189,1359
+20,1200,1199,1355
+21,1210,1209,1360
+22,1220,1219,1365
+23,1230,1229,1359
+24,1240,1239,1356
+25,1250,1249,1360
+26,1260,1259,1357
+27,1270,1269,1361
+28,1280,1279,1357
+29,1290,1289,1352
+30,1300,1299,1357
+31,1310,1309,1362
+32,1320,1319,1359
+33,1330,1329,1362
+34,1340,1339,1358
+35,1350,1349,1361
+36,1360,1359,1359
+37,1370,1369,1354
+38,1380,1379,1358
+39,1390,1389,1360
+40,1400,1399,1359
+41,1410,1409,1354
+42,1420,1419,1351
+43,1430,1429,1364
+44,1440,1439,1360
+45,1450,1449,1356
+46,1460,1459,1360
+47,1470,1469,1365
+48,1480,1479,1351
+49,1490,1489,1356
+50,1500,1499,1354
+51,1510,1509,1358
+52,1520,1519,1363
+53,1530,1529,1359
+54,1540,1539,1355
+55,1550,1549,1368
+56,1560,1559,1354
+57,1570,1569,1359
+58,1580,1579,1363
+59,1590,1589,1360
+60,1600,1599,1356
+61,1610,1609,1351
+62,1620,1619,1357
+63,1630,1629,1362
+64,1640,1639,1357
+65,1650,1649,1354
+66,1660,1659,1359
+67,1670,1669,1362
+68,1680,1679,1359
+69,1690,1689,1355
+70,1700,1699,1360
+71,1710,1709,1366
+72,1720,1719,1351
+73,1730,1729,1356
+74,1740,1739,1361
+75,1750,1749,1358
+76,1760,1759,1361
+77,1770,1769,1357
+78,1780,1779,1352
+79,1790,1789,1367
+80,1800,1799,1354
+81,1810,1809,1358
+82,1820,1819,1364
+83,1830,1829,1358
+84,1840,1839,1354
+85,1850,1849,1360
+86,1860,1859,1356
+87,1870,1869,1360
+88,1880,1879,1357
+89,1890,1889,1353
+90,1900,1899,1357
+91,1910,1909,1362
+92,1920,1919,1357
+93,1930,1929,1362
+94,1940,1939,1358
+95,1950,1949,1363
+96,1960,1959,1359
+97,1970,1969,1354
+98,1980,1979,1359
+99,1990,1989,1357
+100,2000,1999,1360
+101,1990,1989,1356
+102,1980,1979,1352
+103,1970,1969,1361
+104,1960,1959,1361
+105,1950,1949,1357
+106,1940,1939,1362
+107,1930,1929,1367
+108,1920,1919,1355
+109,1910,1909,1359
+110,1900,1899,1356
+111,1890,1889,1359
+112,1880,1879,1363
+113,1870,1869,1351
+114,1860,1859,1355
+115,1850,1849,1360
+116,1840,1839,1356
+117,1830,1829,1362
+118,1820,1819,1357
+119,1810,1809,1362
+120,1800,1799,1357
+121,1790,1789,1362
+122,1780,1779,1359
+123,1770,1769,1364
+124,1760,1759,1351
+125,1750,1749,1355
+126,1740,1739,1359
+127,1730,1729,1356
+128,1720,1719,1361
+129,1710,1709,1365
+130,1700,1699,1353
+131,1690,1689,1365
+132,1680,1679,1353
+133,1670,1669,1357
+134,1660,1659,1363
+135,1650,1649,1362
+136,1640,1639,1355
+137,1630,1629,1358
+138,1620,1619,1356
+139,1610,1609,1359
+140,1600,1599,1363
+141,1590,1589,1361
+142,1580,1579,1356
+143,1570,1569,1360
+144,1560,1559,1356
+145,1550,1549,1360
+146,1540,1539,1357
+147,1530,1529,1361
+148,1520,1519,1350
+149,1510,1509,1352
+150,1500,1499,1358
+151,1490,1489,1354
+152,1480,1479,1357
+153,1470,1469,1363
+154,1460,1459,1350
+155,1450,1449,1364
+156,1440,1439,1359
+157,1430,1429,1355
+158,1420,1419,1360
+159,1410,1409,1365
+160,1400,1399,1361
+161,1390,1389,1357
+162,1380,1379,1352
+163,1370,1369,1357
+164,1360,1359,1362
+165,1350,1349,1357
+166,1340,1339,1362
+167,1330,1329,1370
+168,1320,1319,1353
+169,1310,1309,1359
+170,1300,1299,1362
+171,1290,1289,1359
+172,1280,1279,1364
+173,1270,1269,1349
+174,1260,1259,1355
+175,1250,1249,1368
+176,1240,1239,1356
+177,1230,1229,1360
+178,1220,1219,1364
+179,1210,1209,1360
+180,1200,1199,1356
+181,1190,1189,1360
+182,1180,1179,1356
+183,1170,1169,1361
+184,1160,1159,1356
+185,1150,1149,1353
+186,1140,1139,1357
+187,1130,1129,1362
+188,1120,1119,1358
+189,1110,1109,1364
+190,1100,1099,1359
+191,1090,1089,1363
+192,1080,1079,1352
+193,1070,1069,1356
+194,1060,1059,1360
+195,1050,1049,1357
+196,1040,1039,1362
+197,1030,1029,1364
+198,1020,1019,1351
+199,1010,1009,1369
+200,1000,999,1361
+201,1010,1009,1357
+202,1020,1019,1361
+203,1030,1029,1358
+204,1040,1039,1355
+205,1050,1049,1359
+206,1060,1059,1355
+207,1070,1069,1357
+208,1080,1079,1364
+209,1090,1089,1359
+210,1100,1099,1355
+211,1110,1109,1368
+212,1120,1119,1355
+213,1130,1129,1360
+214,1140,1139,1356
+215,1150,1149,1361
+216,1160,1159,1356
+217,1170,1169,1353
+218,1180,1179,1356
+219,1190,1189,1362
+220,1200,1199,1357
+221,1210,1209,1362
+222,1220,1219,1350
+223,1230,1229,1362
+224,1240,1239,1358
+225,1250,1249,1354
+226,1260,1259,1359
+227,1270,1269,1363
+228,1280,1279,1359
+229,1290,1289,1356
+230,1300,1299,1360
+231,1310,1309,1367
+232,1320,1319,1360
+233,1330,1329,1357
+234,1340,1339,1352
+235,1350,1349,1366
+236,1360,1359,1352
+237,1370,1369,1358
+238,1380,1379,1362
+239,1390,1389,1359
+240,1400,1399,1362
+241,1410,1409,1351
+242,1420,1419,1354
+243,1430,1429,1369
+244,1440,1439,1356
+245,1450,1449,1359
+246,1460,1459,1364
+247,1470,1469,1360
+248,1480,1479,1357
+249,1490,1489,1361
+250,1500,1499,1356
+251,1510,1509,1360
+252,1520,1519,1358
+253,1530,1529,1352
+254,1540,1539,1356
+255,1550,1549,1362
+256,1560,1559,1358
+257,1570,1569,1362
+258,1580,1579,1358
+259,1590,1589,1363
+260,1600,1599,1358
+261,1610,1609,1355
+262,1620,1619,1359
+263,1630,1629,1359
+264,1640,1639,1360
+265,1650,1649,1357
+266,1660,1659,1351
+267,1670,1669,1365
+268,1680,1679,1361
+269,1690,1689,1357
+270,1700,1699,1361
+271,1710,1709,1365
+272,1720,1719,1354
+273,1730,1729,1357
+274,1740,1739,1353
+275,1750,1749,1357
+276,1760,1759,1362
+277,1770,1769,1357
+278,1780,1779,1355
+279,1790,1789,1368
+280,1800,1799,1354
+281,1810,1809,1359
+282,1820,1819,1355
+283,1830,1829,1361
+284,1840,1839,1355
+285,1850,1849,1351
+286,1860,1859,1355
+287,1870,1869,1362
+288,1880,1879,1357
+289,1890,1889,1362
+290,1900,1899,1357
+291,1910,1909,1362
+292,1920,1919,1358
+293,1930,1929,1353
+294,1940,1939,1358
+295,1950,1949,1366
+296,1960,1959,1352
+297,1970,1969,1354
+298,1980,1979,1358
+299,1990,1989,1355
+300,2000,1999,1360
+301,1990,1989,1365
+302,1980,1979,1352
+303,1970,1969,1365
+304,1960,1959,1353
+305,1950,1949,1357
+306,1940,1939,1361
+307,1930,1929,1357
+308,1920,1919,1362
+309,1910,1909,1358
+310,1900,1899,1354
+311,1890,1889,1358
+312,1880,1879,1354
+313,1870,1869,1359
+314,1860,1859,1363
+315,1850,1849,1358
+316,1840,1839,1356
+317,1830,1829,1360
+318,1820,1819,1355
+319,1810,1809,1360
+320,1800,1799,1364
+321,1790,1789,1351
+322,1780,1779,1357
+323,1770,1769,1361
+324,1760,1759,1357
+325,1750,1749,1363
+326,1740,1739,1357
+327,1730,1729,1367
+328,1720,1719,1357
+329,1710,1709,1354
+330,1700,1699,1358
+331,1690,1689,1363
+332,1680,1679,1360
+333,1670,1669,1356
+334,1660,1659,1359
+335,1650,1649,1364
+336,1640,1639,1360
+337,1630,1629,1357
+338,1620,1619,1360
+339,1610,1609,1367
+340,1600,1599,1353
+341,1590,1589,1357
+342,1580,1579,1355
+343,1570,1569,1359
+344,1560,1559,1363
+345,1550,1549,1349
+346,1540,1539,1356
+347,1530,1529,1359
+348,1520,1519,1356
+349,1510,1509,1361
+350,1500,1499,1355
+351,1490,1489,1360
+352,1480,1479,1358
+353,1470,1469,1362
+354,1460,1459,1357
+355,1450,1449,1363
+356,1440,1439,1357
+357,1430,1429,1353
+358,1420,1419,1359
+359,1410,1409,1360
+360,1400,1399,1360
+361,1390,1389,1364
+362,1380,1379,1361
+363,1370,1369,1365
+364,1360,1359,1353
+365,1350,1349,1357
+366,1340,1339,1362
+367,1330,1329,1358
+368,1320,1319,1353
+369,1310,1309,1359
+370,1300,1299,1353
+371,1290,1289,1358
+372,1280,1279,1355
+373,1270,1269,1358
+374,1260,1259,1364
+375,1250,1249,1360
+376,1240,1239,1356
+377,1230,1229,1360
+378,1220,1219,1357
+379,1210,1209,1361
+380,1200,1199,1357
+381,1190,1189,1353
+382,1180,1179,1356
+383,1170,1169,1353
+384,1160,1159,1359
+385,1150,1149,1361
+386,1140,1139,1359
+387,1130,1129,1362
+388,1120,1119,1359
+389,1110,1109,1354
+390,1100,1099,1359
+391,1090,1089,1367
+392,1080,1079,1360
+393,1070,1069,1355
+394,1060,1059,1351
+395,1050,1049,1365
+396,1040,1039,1361
+397,1030,1029,1355
+398,1020,1019,1360
+399,1010,1009,1364
+400,1000,999,1353
+401,1010,1009,1357
+402,1020,1019,1354
+403,1030,1029,1357
+404,1040,1039,1362
+405,1050,1049,1367
+406,1060,1059,1355
+407,1070,1069,1367
+408,1080,1079,1356
+409,1090,1089,1360
+410,1100,1099,1364
+411,1110,1109,1361
+412,1120,1119,1356
+413,1130,1129,1360
+414,1140,1139,1357
+415,1150,1149,1360
+416,1160,1159,1356
+417,1170,1169,1352
+418,1180,1179,1358
+419,1190,1189,1363
+420,1200,1199,1358
+421,1210,1209,1363
+422,1220,1219,1357
+423,1230,1229,1366
+424,1240,1239,1350
+425,1250,1249,1356
+426,1260,1259,1359
+427,1270,1269,1355
+428,1280,1279,1359
+429,1290,1289,1356
+430,1300,1299,1351
+431,1310,1309,1366
+432,1320,1319,1360
+433,1330,1329,1357
+434,1340,1339,1362
+435,1350,1349,1358
+436,1360,1359,1354
+437,1370,1369,1358
+438,1380,1379,1353
+439,1390,1389,1359
+440,1400,1399,1364
+441,1410,1409,1358
+442,1420,1419,1355
+443,1430,1429,1369
+444,1440,1439,1354
+445,1450,1449,1361
+446,1460,1459,1356
+447,1470,1469,1360
+448,1480,1479,1356
+449,1490,1489,1351
+450,1500,1499,1356
+451,1510,1509,1363
+452,1520,1519,1357
+453,1530,1529,1361
+454,1540,1539,1358
+455,1550,1549,1366
+456,1560,1559,1359
+457,1570,1569,1354
+458,1580,1579,1359
+459,1590,1589,1365
+460,1600,1599,1360
+461,1610,1609,1355
+462,1620,1619,1359
+463,1630,1629,1356
+464,1640,1639,1359
+465,1650,1649,1357
+466,1660,1659,1361
+467,1670,1669,1365
+468,1680,1679,1352
+469,1690,1689,1359
+470,1700,1699,1363
+471,1710,1709,1358
+472,1720,1719,1364
+473,1730,1729,1359
+474,1740,1739,1354
+475,1750,1749,1360
+476,1760,1759,1355
+477,1770,1769,1360
+478,1780,1779,1364
+479,1790,1789,1359
+480,1800,1799,1355
+481,1810,1809,1360
+482,1820,1819,1356
+483,1830,1829,1360
+484,1840,1839,1365
+485,1850,1849,1352
+486,1860,1859,1357
+487,1870,1869,1366
+488,1880,1879,1357
+489,1890,1889,1363
+490,1900,1899,1358
+491,1910,1909,1362
+492,1920,1919,1359
+493,1930,1929,1356
+494,1940,1939,1359
+495,1950,1949,1356
+496,1960,1959,1361
+497,1970,1969,1356
+498,1980,1979,1351
+499,1990,1989,1357
+500,2000,1999,1360
+501,1990,1989,1356
+502,1980,1979,1363
+503,1970,1969,1366
+504,1960,1959,1354
+505,1950,1949,1357
+506,1940,1939,1355
+507,1930,1929,1359
+508,1920,1919,1362
+509,1910,1909,1351
+510,1900,1899,1356
+511,1890,1889,1368
+512,1880,1879,1356
+513,1870,1869,1360
+514,1860,1859,1355
+515,1850,1849,1361
+516,1840,1839,1357
+517,1830,1829,1352
+518,1820,1819,1356
+519,1810,1809,1367
+520,1800,1799,1357
+521,1790,1789,1362
+522,1780,1779,1357
+523,1770,1769,1362
+524,1760,1759,1358
+525,1750,1749,1354
+526,1740,1739,1360
+527,1730,1729,1365
+528,1720,1719,1351
+529,1710,1709,1356
+530,1700,1699,1360
+531,1690,1689,1355
+532,1680,1679,1361
+533,1670,1669,1364
+534,1660,1659,1351
+535,1650,1649,1365
+536,1640,1639,1362
+537,1630,1629,1357
+538,1620,1619,1361
+539,1610,1609,1357
+540,1600,1599,1354
+541,1590,1589,1359
+542,1580,1579,1355
+543,1570,1569,1358
+544,1560,1559,1363
+545,1550,1549,1360
+546,1540,1539,1356
+547,1530,1529,1360
+548,1520,1519,1358
+549,1510,1509,1361
+550,1500,1499,1356
+551,1490,1489,1364
+552,1480,1479,1367
+553,1470,1469,1352
+554,1460,1459,1357
+555,1450,1449,1355
+556,1440,1439,1358
+557,1430,1429,1362
+558,1420,1419,1350
+559,1410,1409,1364
+560,1400,1399,1359
+561,1390,1389,1356
+562,1380,1379,1360
+563,1370,1369,1364
+564,1360,1359,1351
+565,1350,1349,1356
+566,1340,1339,1352
+567,1330,1329,1358
+568,1320,1319,1361
+569,1310,1309,1357
+570,1300,1299,1362
+571,1290,1289,1368
+572,1280,1279,1354
+573,1270,1269,1359
+574,1260,1259,1363
+575,1250,1249,1358
+576,1240,1239,1354
+577,1230,1229,1350
+578,1220,1219,1354
+579,1210,1209,1359
+580,1200,1199,1357
+581,1190,1189,1360
+582,1180,1179,1364
+583,1170,1169,1363
+584,1160,1159,1358
+585,1150,1149,1362
+586,1140,1139,1357
+587,1130,1129,1362
+588,1120,1119,1358
+589,1110,1109,1354
+590,1100,1099,1357
+591,1090,1089,1354
+592,1080,1079,1359
+593,1070,1069,1365
+594,1060,1059,1361
+595,1050,1049,1364
+596,1040,1039,1351
+597,1030,1029,1356
+598,1020,1019,1361
+599,1010,1009,1356
+600,1000,999,1362
+601,1010,1009,1357
+602,1020,1019,1353
+603,1030,1029,1357
+604,1040,1039,1361
+605,1050,1049,1359
+606,1060,1059,1363
+607,1070,1069,1359
+608,1080,1079,1355
+609,1090,1089,1359
+610,1100,1099,1354
+611,1110,1109,1360
+612,1120,1119,1364
+613,1130,1129,1359
+614,1140,1139,1356
+615,1150,1149,1373
+616,1160,1159,1357
+617,1170,1169,1360
+618,1180,1179,1356
+619,1190,1189,1360
+620,1200,1199,1358
+621,1210,1209,1353
+622,1220,1219,1359
+623,1230,1229,1362
+624,1240,1239,1359
+625,1250,1249,1363
+626,1260,1259,1351
+627,1270,1269,1363
+628,1280,1279,1361
+629,1290,1289,1356
+630,1300,1299,1361
+631,1310,1309,1365
+632,1320,1319,1353
+633,1330,1329,1357
+634,1340,1339,1362
+635,1350,1349,1358
+636,1360,1359,1361
+637,1370,1369,1366
+638,1380,1379,1353
+639,1390,1389,1366
+640,1400,1399,1354
+641,1410,1409,1358
+642,1420,1419,1364
+643,1430,1429,1361
+644,1440,1439,1354
+645,1450,1449,1359
+646,1460,1459,1356
+647,1470,1469,1364
+648,1480,1479,1356
+649,1490,1489,1353
+650,1500,1499,1357
+651,1510,1509,1360
+652,1520,1519,1357
+653,1530,1529,1362
+654,1540,1539,1359
+655,1550,1549,1364
+656,1560,1559,1357
+657,1570,1569,1354
+658,1580,1579,1358
+659,1590,1589,1354
+660,1600,1599,1359
+661,1610,1609,1363
+662,1620,1619,1350
+663,1630,1629,1364
+664,1640,1639,1360
+665,1650,1649,1358
+666,1660,1659,1362
+667,1670,1669,1365
+668,1680,1679,1353
+669,1690,1689,1359
+670,1700,1699,1354
+671,1710,1709,1357
+672,1720,1719,1362
+673,1730,1729,1358
+674,1740,1739,1353
+675,1750,1749,1368
+676,1760,1759,1355
+677,1770,1769,1359
+678,1780,1779,1356
+679,1790,1789,1364
+680,1800,1799,1356
+681,1810,1809,1353
+682,1820,1819,1358
+683,1830,1829,1362
+684,1840,1839,1357
+685,1850,1849,1362
+686,1860,1859,1349
+687,1870,1869,1362
+688,1880,1879,1358
+689,1890,1889,1355
+690,1900,1899,1360
+691,1910,1909,1365
+692,1920,1919,1350
+693,1930,1929,1355
+694,1940,1939,1351
+695,1950,1949,1357
+696,1960,1959,1359
+697,1970,1969,1364
+698,1980,1979,1352
+699,1990,1989,1365
+700,2000,1999,1354
+701,1990,1989,1359
+702,1980,1979,1362
+703,1970,1969,1359
+704,1960,1959,1353
+705,1950,1949,1359
+706,1940,1939,1355
+707,1930,1929,1359
+708,1920,1919,1355
+709,1910,1909,1360
+710,1900,1899,1364
+711,1890,1889,1363
+712,1880,1879,1355
+713,1870,1869,1361
+714,1860,1859,1356
+715,1850,1849,1361
+716,1840,1839,1358
+717,1830,1829,1352
+718,1820,1819,1359
+719,1810,1809,1355
+720,1800,1799,1359
+721,1790,1789,1364
+722,1780,1779,1359
+723,1770,1769,1363
+724,1760,1759,1359
+725,1750,1749,1355
+726,1740,1739,1360
+727,1730,1729,1365
+728,1720,1719,1353
+729,1710,1709,1357
+730,1700,1699,1354
+731,1690,1689,1356
+732,1680,1679,1362
+733,1670,1669,1358
+734,1660,1659,1363
+735,1650,1649,1367
+736,1640,1639,1354
+737,1630,1629,1359
+738,1620,1619,1364
+739,1610,1609,1359
+740,1600,1599,1363
+741,1590,1589,1351
+742,1580,1579,1356
+743,1570,1569,1373
+744,1560,1559,1356
+745,1550,1549,1360
+746,1540,1539,1357
+747,1530,1529,1362
+748,1520,1519,1357
+749,1510,1509,1352
+750,1500,1499,1358
+751,1490,1489,1361
+752,1480,1479,1357
+753,1470,1469,1354
+754,1460,1459,1359
+755,1450,1449,1355
+756,1440,1439,1359
+757,1430,1429,1364
+758,1420,1419,1360
+759,1410,1409,1365
+760,1400,1399,1352
+761,1390,1389,1355
+762,1380,1379,1362
+763,1370,1369,1357
+764,1360,1359,1362
+765,1350,1349,1359
+766,1340,1339,1354
+767,1330,1329,1358
+768,1320,1319,1363
+769,1310,1309,1359
+770,1300,1299,1354
+771,1290,1289,1360
+772,1280,1279,1356
+773,1270,1269,1360
+774,1260,1259,1356
+775,1250,1249,1365
+776,1240,1239,1364
+777,1230,1229,1353
+778,1220,1219,1357
+779,1210,1209,1353
+780,1200,1199,1358
+781,1190,1189,1363
+782,1180,1179,1360
+783,1170,1169,1362
+784,1160,1159,1359
+785,1150,1149,1354
+786,1140,1139,1359
+787,1130,1129,1365
+788,1120,1119,1359
+789,1110,1109,1356
+790,1100,1099,1351
+791,1090,1089,1356
+792,1080,1079,1360
+793,1070,1069,1357
+794,1060,1059,1361
+795,1050,1049,1365
+796,1040,1039,1352
+797,1030,1029,1357
+798,1020,1019,1355
+799,1010,1009,1359
+800,1000,999,1364
+801,1010,1009,1349
+802,1020,1019,1356
+803,1030,1029,1359
+804,1040,1039,1356
+805,1050,1049,1360
+806,1060,1059,1365
+807,1070,1069,1366
+808,1080,1079,1357
+809,1090,1089,1360
+810,1100,1099,1357
+811,1110,1109,1362
+812,1120,1119,1357
+813,1130,1129,1354
+814,1140,1139,1357
+815,1150,1149,1364
+816,1160,1159,1359
+817,1170,1169,1363
+818,1180,1179,1360
+819,1190,1189,1365
+820,1200,1199,1351
+821,1210,1209,1356
+822,1220,1219,1362
+823,1230,1229,1357
+824,1240,1239,1362
+825,1250,1249,1357
+826,1260,1259,1353
+827,1270,1269,1357
+828,1280,1279,1362
+829,1290,1289,1359
+830,1300,1299,1363
+831,1310,1309,1359
+832,1320,1319,1354
+833,1330,1329,1359
+834,1340,1339,1356
+835,1350,1349,1361
+836,1360,1359,1365
+837,1370,1369,1351
+838,1380,1379,1355
+839,1390,1389,1373
+840,1400,1399,1357
+841,1410,1409,1361
+842,1420,1419,1357
+843,1430,1429,1362
+844,1440,1439,1356
+845,1450,1449,1354
+846,1460,1459,1357
+847,1470,1469,1362
+848,1480,1479,1358
+849,1490,1489,1363
+850,1500,1499,1350
+851,1510,1509,1364
+852,1520,1519,1359
+853,1530,1529,1355
+854,1540,1539,1359
+855,1550,1549,1363
+856,1560,1559,1359
+857,1570,1569,1355
+858,1580,1579,1352
+859,1590,1589,1356
+860,1600,1599,1361
+861,1610,1609,1355
+862,1620,1619,1360
+863,1630,1629,1365
+864,1640,1639,1353
+865,1650,1649,1356
+866,1660,1659,1363
+867,1670,1669,1357
+868,1680,1679,1361
+869,1690,1689,1357
+870,1700,1699,1353
+871,1710,1709,1372
+872,1720,1719,1354
+873,1730,1729,1359
+874,1740,1739,1363
+875,1750,1749,1359
+876,1760,1759,1354
+877,1770,1769,1359
+878,1780,1779,1355
+879,1790,1789,1360
+880,1800,1799,1355
+881,1810,1809,1360
+882,1820,1819,1356
+883,1830,1829,1360
+884,1840,1839,1356
+885,1850,1849,1360
+886,1860,1859,1358
+887,1870,1869,1362
+888,1880,1879,1357
+889,1890,1889,1353
+890,1900,1899,1359
+891,1910,1909,1355
+892,1920,1919,1360
+893,1930,1929,1363
+894,1940,1939,1350
+895,1950,1949,1363
+896,1960,1959,1361
+897,1970,1969,1355
+898,1980,1979,1361
+899,1990,1989,1365
+900,2000,1999,1351
+901,1990,1989,1358
+902,1980,1979,1354
+903,1970,1969,1361
+904,1960,1959,1362
+905,1950,1949,1357
+906,1940,1939,1363
+907,1930,1929,1368
+908,1920,1919,1354
+909,1910,1909,1358
+910,1900,1899,1364
+911,1890,1889,1359
+912,1880,1879,1356
+913,1870,1869,1351
+914,1860,1859,1355
+915,1850,1849,1360
+916,1840,1839,1356
+917,1830,1829,1362
+918,1820,1819,1358
+919,1810,1809,1362
+920,1800,1799,1359
+921,1790,1789,1354
+922,1780,1779,1359
+923,1770,1769,1362
+924,1760,1759,1359
+925,1750,1749,1356
+926,1740,1739,1360
+927,1730,1729,1356
+928,1720,1719,1361
+929,1710,1709,1365
+930,1700,1699,1352
+931,1690,1689,1365
+932,1680,1679,1354
+933,1670,1669,1358
+934,1660,1659,1362
+935,1650,1649,1363
+936,1640,1639,1354
+937,1630,1629,1359
+938,1620,1619,1354
+939,1610,1609,1358
+940,1600,1599,1364
+941,1590,1589,1360
+942,1580,1579,1356
+943,1570,1569,1360
+944,1560,1559,1356
+945,1550,1549,1360
+946,1540,1539,1356
+947,1530,1529,1361
+948,1520,1519,1358
+949,1510,1509,1352
+950,1500,1499,1358
+951,1490,1489,1354
+952,1480,1479,1358
+953,1470,1469,1363
+954,1460,1459,1351
+955,1450,1449,1364
+956,1440,1439,1360
+957,1430,1429,1356
+958,1420,1419,1361
+959,1410,1409,1365
+960,1400,1399,1352
+961,1390,1389,1357
+962,1380,1379,1352
+963,1370,1369,1358
+964,1360,1359,1362
+965,1350,1349,1358
+966,1340,1339,1353
+967,1330,1329,1371
+968,1320,1319,1356
+969,1310,1309,1358
+970,1300,1299,1356
+971,1290,1289,1360
+972,1280,1279,1356
+973,1270,1269,1352
+974,1260,1259,1357
+975,1250,1249,1361
+976,1240,1239,1357
+977,1230,1229,1361
+978,1220,1219,1366
+979,1210,1209,1361
+980,1200,1199,1357
+981,1190,1189,1354
+982,1180,1179,1357
+983,1170,1169,1363
+984,1160,1159,1350
+985,1150,1149,1355
+986,1140,1139,1358
+987,1130,1129,1355
+988,1120,1119,1362
+989,1110,1109,1365
+990,1100,1099,1360
+991,1090,1089,1364
+992,1080,1079,1353
+993,1070,1069,1357
+994,1060,1059,1362
+995,1050,1049,1357
+996,1040,1039,1355
+997,1030,1029,1359
+998,1020,1019,1354
+999,1010,1009,1362
+END
+
